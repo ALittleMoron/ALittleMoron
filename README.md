@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Dmitriy</h1>
-<h3 align="center">A beginning Python web-developer</h3>
+<p>Hello, I am a student of the South Russian State Polytechnic University (Novocherkassk Polytechnic Institute) - administration of information systems. I have mastered most of the fundamentals of the Python language and began to learn in depth the language, modules of the built-in library and third-party useful libraries, and also Django 3 framework. The goals of my training are improvement in programming, learning new things in my area (python developing and back-end developing).</p>
 
 - 🌱 I am currently learning **Django, FastAPI and JavaScript**
 
