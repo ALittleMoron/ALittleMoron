@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Dmitriy</h1>
 <h3 align="center">A beginning Python web-developer</h3>
 
-- 🌱 I am currently learning **Django, FastAPI and JavaScript**
+- 🌱 I am currently learning **Django and JavaScript**
 
 - 📫 How to reach me **dima.lunev14@gmail.com**
 
