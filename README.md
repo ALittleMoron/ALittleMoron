@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align='left'>
-email: **dima.lunev14@gmail.com**<br>
+email: dima.lunev14@gmail.com<br>
 linkedIn: in/dmitriy-lunev/<br>
 vk: /dimalunev
 </p>
