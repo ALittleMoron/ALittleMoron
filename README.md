@@ -5,7 +5,7 @@
 - LinkedIn: https://www.linkedin.com/in/dmitriy-lunev/
 - Vk: https://vk.com/dimalunev
 
-## Languages and Tools:
+## Languages, Tools and skills:
 - Python, Django, Flask, FastAPI, asyncio, httpx;
 - PostgreSQL, Redis, RabbitMQ;
 - HTML, CSS, Bootstrap, JavaScript;
