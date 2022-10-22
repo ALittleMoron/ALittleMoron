@@ -7,10 +7,10 @@
 
 ## Languages and Tools:
 - Python, Django, Flask, FastAPI, asyncio, httpx;
-- PostgreSQL, Redis;
+- PostgreSQL, Redis, RabbitMQ;
 - HTML, CSS, Bootstrap, JavaScript;
-- Linux (WSL and Linux distros);
+- Linux (WSL and common Linux distros);
 - Git & GitHub;
-- Docker, Docker Compose.
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ALittleMoron&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- CI/CD (GH actions);
+- Docker, Docker-Compose;
+- AWS (EC2, ECS, ECR, SES, S3).
