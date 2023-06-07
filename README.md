@@ -6,10 +6,10 @@
 - Vk: https://vk.com/dimalunev
 
 ## Languages, Tools and skills:
-- Python, Django, Flask, FastAPI, asyncio, httpx;
+- Python, Django, Flask, FastAPI, asyncio, httpx, sqlalchemy, TortoiseORM;
 - PostgreSQL, Redis, RabbitMQ;
 - HTML, CSS, Bootstrap, JavaScript;
-- Linux (WSL and common Linux distros);
+- Linux (WSL and common Linux distros), bash, Makefile; + many linux CLI programs;
 - Git & GitHub;
 - CI/CD (GH actions);
 - Docker, Docker-Compose;
