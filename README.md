@@ -1,9 +1,5 @@
 # Dmitriy Lunev
 
-## Links:
-- Email: dima.lunev14@gmail.com
-- Telegram: https://t.me/alittlemoron
-
 ## Languages, Tools and skills:
 - Python, Django, DRF, Flask, FastAPI, sqlalchemy, TortoiseORM, OpenCV, sanic, aiohttp (client & server), gino;
 - PostgreSQL, Redis, RabbitMQ, Kafka;
