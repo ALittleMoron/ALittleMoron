@@ -11,7 +11,7 @@ Phone: [+79188739392](tel:79188739392) | Timezone: GMT+3
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dima.lunev14@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dmitriy-lunev/)
 
-## ℹ️ About
+## 💬 About
 
 Python backend developer with 4+ years of commercial experience, working in different spheres like
 B2B, healthcare, veterinary, HR and others. Have 2 years of leading experience. Worked in teams

@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dima.lunev14@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dmitriy-lunev/)
 
-## ℹ️ Обо мне
+## 💬 Обо мне
 
 Backend Python разработчик с более чем 4-летним коммерческим опытом работы в различных сферах,
 таких как B2B, здравоохранение, ветеринария, HR и другие. Имею 2 года опыта руководства 
