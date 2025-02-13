@@ -24,16 +24,21 @@ Backend Python разработчик с более чем 4-летним ком
 
 # ⚙️ Навыки и технологии
 
-- **Web**: Python, Django, DRF, Flask, FastAPI, sqlalchemy, TortoiseORM, OpenCV, sanic,
+- **Веб-технологии**: Python, Django, DRF, Flask, FastAPI, sqlalchemy, TortoiseORM, OpenCV, sanic,
   aiohttp (client & server), gino, PostgreSQL, Redis, RabbitMQ, Kafka, HTML, CSS,
   Bootstrap, JavaScript, TypeScript.
-- **Others**: Linux (WSL and common Linux distros) + many linux CLI programs, bash, Makefile,
+- **Остальное**: Linux (WSL and common Linux distros) + many linux CLI programs, bash, Makefile,
   Git, GitHub, GitLab, GitHub actions, GitLab CI, Docker, Docker-Compose, nginx,
   traefik, kubernetes, AWS (EC2, ECS, ECR, SES, S3), MinIO.
+- **Образование**: 2018 - 2022, Южно-Российский Государственный Технический Университет
+  (Новочеркасский Политехнический Университет) имени М.И. Платова, Факультет информационных
+  технологий и управления, Программное обеспечение вычислительной техники, Математическое
+  обеспечение и администрирование информационных систем
+- **Языки**: Английски - средний (читаю, пишу, говорю без словаря), Русский - носитель языка.
 
 ## 👔 Коммерческий опыт:
 
-- [Compel](https://www.compel.ru/) - 08/2024 - Текущее время
+- [Compel](https://www.compel.ru/) - 08/2024 - по настоящее время
 - [Fortech](https://fortech.dev/) - 06/2022 - 08/2024
 - [Lukoil](https://lukoil.ru/) - 11/2021 - 06/2022
 - [Mobicult](https://mobicult.ru/) - 06/2020 - 11/2021

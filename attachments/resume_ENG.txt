@@ -1,3 +1,45 @@
+Dmitriy Lunev | 4+ years of commercial experience | Python backend developer
+
+Phone              : +79188739392 (WhatsApp allowed)
+Email              : dima.lunev14@gmail.com
+Telegram           : https://t.me/alittlemoron
+LinkedIn           : https://www.linkedin.com/in/dmitriy-lunev/
+
+----------------------------------------------------------------------------------------------------
+
+ABOUT
+
+Python backend developer with 4+ years of commercial experience, working in different spheres like
+B2B, healthcare, veterinary, HR and others. Have 2 years of leading experience. Worked in teams
+ranging from 4 to 30 members, both remotely and on-side. Participated in all stages of full cycle
+of development: from gathering product owner requirements to establishing full automated release
+process (CI/CD).
+
+In addition to the core activities of the backend developer, I am also involved in mentoring and
+enhancing the competencies of other developers. We can say that this is my hobby.
+
+----------------------------------------------------------------------------------------------------
+
+SKILLS
+
+Web: Python, Django, DRF, Flask, FastAPI, sqlalchemy, TortoiseORM, OpenCV, sanic,
+aiohttp (client & server), gino, PostgreSQL, Redis, RabbitMQ, Kafka, HTML, CSS, Bootstrap,
+JavaScript, TypeScript.
+
+Others: Linux (WSL and common Linux distros) + many linux CLI programs, bash, Makefile, Git,
+GitHub, GitLab, GitHub actions, GitLab CI, Docker, Docker-Compose, nginx, traefik, kubernetes,
+AWS (EC2, ECS, ECR, SES, S3), MinIO.
+
+Higher education: 2018 - 2022, The Platov South Russian State Polytechnic University (NPI),
+Faculty of Information Technology and Management, Computer software, Mathematical support and
+administration of information systems
+
+Languages: English - B1, Russian - native.
+
+----------------------------------------------------------------------------------------------------
+
+COMMERCIAL EXPERIENCE
+
 Compel - https://www.compel.ru/
 
 Project: B2B Microservices

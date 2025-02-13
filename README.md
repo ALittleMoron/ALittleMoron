@@ -30,6 +30,10 @@ enhancing the competencies of other developers. We can say that this is my hobby
 - **Others**: Linux (WSL and common Linux distros) + many linux CLI programs, bash, Makefile,
   Git, GitHub, GitLab, GitHub actions, GitLab CI, Docker, Docker-Compose, nginx,
   traefik, kubernetes, AWS (EC2, ECS, ECR, SES, S3), MinIO.
+- **Higher education**: 2018 - 2022, The Platov South Russian State Polytechnic University (NPI),
+  Faculty of Information Technology and Management, Computer software, Mathematical support and
+  administration of information systems
+- **Languages**: English - B1, Russian - native.
 
 ## 👔 Commercial experience:
 
