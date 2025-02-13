@@ -1,0 +1,102 @@
+Compel - https://www.compel.ru/
+
+Project: B2B Microservices
+
+- Increasing test coverage 27% -> 95% (average on all microservices)
+- Optimize scheduled electronic components import, which reduced service blocking from 6 hours
+  to 20 minutes
+- Optimize search by electronic components, which cause reduce server response time from
+  1.2sec (avg) to 112ms (avg)
+- Designing microservices architecture and APIs with a focus on reusing in different applications
+- Active participation in optimizing company processes
+- Kafka integration using FastStream
+- Participation in the discussion and adoption of architectural decisions on issues of separation
+  of microservices
+
+====================================================================================================
+
+Fortech - https://fortech.dev/
+
+Main responsibilities
+
+- mentoring, coaching, training new employees
+- employee technical checks, screenings, certifications
+- conducting interviews for python developer positions
+
+Project: CV generator
+
+- Adding document generation from docx templates and html templates
+- Implementing an authorization system with a roles and permissions
+- Implementing CV storage via MinIO
+- Adding an administrative panel for working with reference information and CV components
+- Implementing a CV catalog with filtering by employees, projects and technologies
+
+Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, MinlO, PyTest
+
+Project: Application for counting calories and doing sports
+
+- Integration with products API
+- Implementation of a system for counting calories
+- Implementation of a service for working with files (service on Django over MinIO)
+- Implementation of an application for articles and sports activities with explanatory video
+  tutorials
+
+Stack: Django, Postgresql, Redis, RabbitMQ, GitHub actions, MinIO
+
+====================================================================================================
+
+Lukoil - https://lukoil.ru/
+
+Project: HR electronic document management service
+
+- Adding document generation using docx templates
+- Adding an access rights system
+- Integration with the notification service via Kafka
+- Identifying and eliminating incidents with high load and database locks
+
+Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinlO, Portainer, PyTest, Kafka
+
+Project: Online recruitment service
+
+- Adding a state machine for transitions by candidate card statuses
+- Integration with passport data verification and document parsing services
+- Integration with the HR service
+- Integration with the notification service via Kafka
+- Adding a system of dynamic additional fields and blocks for filling by the candidate
+- Adding email verification system
+
+Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinlO, Portainer, PyTest, Kafka
+
+====================================================================================================
+
+Mobicult - https://mobicult.ru/
+
+Project: Mobile application for pet owners
+
+- Integration with the API of veterinary clinics (VetManagerAPI)
+- Integration with the CloudPayments (payment acquiring)
+- Implementation of a reminder system - periodic reminders created by the user to notify about
+  actions with the pet.
+- Implementation of a moderation system for new clinics
+- Creation of an onboarding system for new users
+- Implementation of an authorization system with phone number confirmation
+- Working with geodata via PostGIS and GeoAlchemy2 - events and key points on the map
+
+Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, PyTest, CloudPayments, PostGIS,
+       GeoAlchemy2
+
+Project: admin panel for sending requests for pallet shipment
+- Rewriting interaction with the API of an external service from XML to JSON
+- Adding a request queue to avoid blocking
+- Refinement of data recording in the admin panel log
+- Project maintaining
+
+Stack: Python, sanic, aiohttp (client), PyTest, PostgreSQL
+
+Project: application for a network of private medical clinics and consultative and diagnostic
+         centers in Moscow
+- Optimization of the algorithm for synchronizing data with clinics
+- Adding caching of clinic data.
+- Project maintaining
+
+Stack: Python, aiohttp (client + server), PyTest, PostgreSQL, Celery
