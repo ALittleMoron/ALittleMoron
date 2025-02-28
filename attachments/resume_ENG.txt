@@ -5,7 +5,7 @@ Email              : dima.lunev14@gmail.com
 Telegram           : https://t.me/alittlemoron
 LinkedIn           : https://www.linkedin.com/in/dmitriy-lunev/
 
-----------------------------------------------------------------------------------------------------
+====================================================================================================
 
 ABOUT
 
@@ -18,7 +18,7 @@ process (CI/CD).
 In addition to the core activities of the backend developer, I am also involved in mentoring and
 enhancing the competencies of other developers. We can say that this is my hobby.
 
-----------------------------------------------------------------------------------------------------
+====================================================================================================
 
 SKILLS
 
@@ -36,109 +36,153 @@ administration of information systems
 
 Languages: English - B1, Russian - native.
 
-----------------------------------------------------------------------------------------------------
+====================================================================================================
 
 COMMERCIAL EXPERIENCE
 
-Compel - https://www.compel.ru/
+Compel | August 2024 — Nowadays | https://www.compel.ru/
+
+Position: Backend developer
 
 Project: B2B Microservices
 
-- Increasing test coverage 27% -> 95% (average on all microservices)
-- Optimize scheduled electronic components import, which reduced service blocking from 6 hours
-  to 20 minutes
-- Optimize search by electronic components, which cause reduce server response time from
-  1.2sec (avg) to 112ms (avg)
-- Designing microservices architecture and APIs with a focus on reusing in different applications
-- Active participation in optimizing company processes
-- Kafka integration using FastStream
-- Participation in the discussion and adoption of architectural decisions on issues of separation
-  of microservices
+- Increased test coverage from 27% to 95% across all microservices, significantly improving
+  reliability and error detection
+- Optimized electronic component import, reducing service downtime from 6 hours to 20 minutes,
+  accelerating database updates by 18x
+- Accelerated electronic component search, reducing average server response time from 1.2 seconds
+  to 112 ms (10x improvement), enhancing request processing speed
+- Designed microservices architecture and APIs with a focus on reusability, reducing code
+  duplication and simplifying scalability
+- Optimized testing and system analysis processes, improving release quality and reducing
+  debugging costs
+- Integrated Kafka with FastStream, eliminating client blocking during PCB ordering and ensuring
+  seamless request processing
+- Contributed to microservices architecture design, defining requirements for new services and
+  decomposing monolithic solutions into independent modules
 
-====================================================================================================
+Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, MinlO, PyTest, Kafka, Kibana, Sentry,
+      KeyCloak, Behave, FastStream, Grafana.
 
-Fortech - https://fortech.dev/
+Project: 360 performance review service
+- Optimized employee rating aggregation, reducing average server response time from 5 seconds to
+  800 ms, accelerating report generation by 6x
+- Implemented pagination in the department employee report, enhancing usability and reducing
+  server load during data retrieval
+- Refactored the service to align with unified standards across all services, simplifying
+  maintenance and scalability
 
-Main responsibilities
+Stack: Python, Aiohttp, pypika, PostgreSQL, minio, keycloak, pytest.
 
-- mentoring, coaching, training new employees
-- employee technical checks, screenings, certifications
-- conducting interviews for python developer positions
+-------
 
-Project: CV generator
+Fortech | June 2022 — August 2024 | https://fortech.dev/
 
-- Adding document generation from docx templates and html templates
-- Implementing an authorization system with a roles and permissions
-- Implementing CV storage via MinIO
-- Adding an administrative panel for working with reference information and CV components
-- Implementing a CV catalog with filtering by employees, projects and technologies
+Position: Head of Python Development
 
-Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, MinlO, PyTest
+Responsibilities:
 
-Project: Application for counting calories and doing sports
+- Mentorship & Coaching: Trained new employees, supported their onboarding, assisted with
+  technical challenges, and helped them master the tech stack.
+- Candidate Evaluation: Conducted technical interviews, screenings, and assessments for
+  Python developers
+- Hiring Process Optimization: Contributed to the development and refinement of the candidate
+  evaluation system to improve hiring efficiency
 
-- Integration with products API
-- Implementation of a system for counting calories
-- Implementation of a service for working with files (service on Django over MinIO)
-- Implementation of an application for articles and sports activities with explanatory video
-  tutorials
+Project: Fitness Application
+
+- Integrated product APIs to automate nutritional value calculation based on ingredient composition
+- Developed a flexible calorie tracking system with multiple measurement units (grams, milliliters,
+  portions, etc.)
+- Implemented a nutrition and macronutrient tracking journal, enabling users to monitor their
+  nutrient balance
+- Built a media service (Django + MinIO) for handling images and videos, allowing users to upload
+  meal photos and workout recordings.
+- Added an article and sports activity section with video lessons, improving user engagement
 
 Stack: Django, Postgresql, Redis, RabbitMQ, GitHub actions, MinIO
 
-====================================================================================================
+Project: Desktop Application for Automatic License Plate Recognition and Vehicle Weight Auditing
 
-Lukoil - https://lukoil.ru/
+- Designed the application architecture and interface to enhance usability.
+- Implemented license plate recognition from images and videos using Tesseract OCR, improving
+  identification accuracy.
+- Configured a Windows application installer using PyInstaller, simplifying deployment for clients.
+- Developed a dynamic settings system via an ini-file, allowing flexible parameter adjustments
+  without recompilation.
+- Integrated API for weight scales, automating vehicle weight control and improving data accuracy.
+
+Stack: Python 3, OpenCV, PyQt6, SQLAlchemy, PyInstaller, SQLite, Docker, GitHub, Trello
+
+-------
+
+Lukoil | November 2021 — June 2022 | https://lukoil.ru/
+
+Position: Backend developer
 
 Project: HR electronic document management service
 
-- Adding document generation using docx templates
-- Adding an access rights system
-- Integration with the notification service via Kafka
-- Identifying and eliminating incidents with high load and database locks
+- Implemented document generation using DOCX templates, reducing manual workload for HR specialists
+- Developed a role-based access control (RBAC) system, ensuring flexible document access
+  management and enhanced security
+- Added support for electronic document signing (simple and enhanced digital signatures),
+  accelerating document processing
+- Integrated the service with a notification system via Kafka.
+- Optimized database performance, eliminating locks and high-load incidents
+- Designed and implemented a microservices migration plan, improving fault tolerance and scalability
 
 Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinlO, Portainer, PyTest, Kafka
 
 Project: Online recruitment service
 
-- Adding a state machine for transitions by candidate card statuses
-- Integration with passport data verification and document parsing services
-- Integration with the HR service
-- Integration with the notification service via Kafka
-- Adding a system of dynamic additional fields and blocks for filling by the candidate
-- Adding email verification system
+- Developed a flexible finite-state machine for candidate status transitions, enabling process
+  customization to meet business needs
+- Integrated the service with passport verification and document parsing systems
+- Implemented seamless integration with the HR document management system, automating document
+  creation and signing upon hiring
+- Connected the service to the notification system via Kafka
+- Added a dynamic field and block system, allowing flexible form customization without code
+  modifications
+- Introduced email and phone verification for candidates, increasing data reliability and reducing
+  fraud risks
 
 Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinlO, Portainer, PyTest, Kafka
 
-====================================================================================================
+-------
 
-Mobicult - https://mobicult.ru/
+Mobicult | June 2020 — November 2021 | https://mobicult.ru/
+
+Position: Backend developer
 
 Project: Mobile application for pet owners
 
-- Integration with the API of veterinary clinics (VetManagerAPI)
-- Integration with the CloudPayments (payment acquiring)
-- Implementation of a reminder system - periodic reminders created by the user to notify about
-  actions with the pet.
-- Implementation of a moderation system for new clinics
-- Creation of an onboarding system for new users
-- Implementation of an authorization system with phone number confirmation
-- Working with geodata via PostGIS and GeoAlchemy2 - events and key points on the map
+- Integrated veterinary clinic APIs (VetManagerAPI), enabling automatic access to medical records
+- Implemented integration with the CloudPayments payment system for primary appointment payments
+  and donations to shelters
+- Collaborated with the client to formalize business requirements
+- Developed a reminder system, allowing users to schedule pet care automatically
+- Built a clinic moderation system, accelerating verification and publication processes
+- Created an onboarding customization system via the admin panel, increasing new user conversion
+  rates
+- Implemented phone number verification for user authentication
+- Developed event and map point search functionality on the map (PostGIS, GeoAlchemy2), providing
+  convenient navigation for pet owners
 
 Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, PyTest, CloudPayments, PostGIS,
        GeoAlchemy2
 
 Project: admin panel for sending requests for pallet shipment
-- Rewriting interaction with the API of an external service from XML to JSON
-- Adding a request queue to avoid blocking
-- Refinement of data recording in the admin panel log
-- Project maintaining
+- Refactored external service API interaction, migrating from XML to JSON
+- Added a request queue to prevent processing bottlenecks
+- Implemented an event log for the admin panel, ensuring full user action auditability and
+  improving system transparency
+- Provided ongoing support and feature enhancements, improving service stability
 
 Stack: Python, sanic, aiohttp (client), PyTest, PostgreSQL
 
-Project: application for a network of private medical clinics and consultative and diagnostic
-         centers in Moscow
-- Optimization of the algorithm for synchronizing data with clinics
-- Adding caching of clinic data.
-- Project maintaining
+Project: Application for a Private Medical Clinic Franchise
+- Optimized the data synchronization algorithm, reducing record update time
+- Added API data caching, lowering server load and speeding up data retrieval for users
+- Provided ongoing support and feature enhancements, improving service stability
 
 Stack: Python, aiohttp (client + server), PyTest, PostgreSQL, Celery
