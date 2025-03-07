@@ -45,7 +45,6 @@ Compel | August 2024 — Nowadays | https://www.compel.ru/
 Position: Backend developer
 
 Project: B2B Microservices
-
 - Increased test coverage from 27% to 95% across all microservices, significantly improving
   reliability and error detection
 - Optimized electronic component import, reducing service downtime from 6 hours to 20 minutes,
@@ -60,7 +59,6 @@ Project: B2B Microservices
   seamless request processing
 - Contributed to microservices architecture design, defining requirements for new services and
   decomposing monolithic solutions into independent modules
-
 Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, MinlO, PyTest, Kafka, Kibana, Sentry,
       KeyCloak, Behave, FastStream, Grafana.
 
@@ -71,7 +69,6 @@ Project: 360 performance review service
   server load during data retrieval
 - Refactored the service to align with unified standards across all services, simplifying
   maintenance and scalability
-
 Stack: Python, Aiohttp, pypika, PostgreSQL, minio, keycloak, pytest.
 
 -------
@@ -81,7 +78,6 @@ Fortech | June 2022 — August 2024 | https://fortech.dev/
 Position: Head of Python Development
 
 Responsibilities:
-
 - Mentorship & Coaching: Trained new employees, supported their onboarding, assisted with
   technical challenges, and helped them master the tech stack.
 - Candidate Evaluation: Conducted technical interviews, screenings, and assessments for
@@ -90,7 +86,6 @@ Responsibilities:
   evaluation system to improve hiring efficiency
 
 Project: Fitness Application
-
 - Integrated product APIs to automate nutritional value calculation based on ingredient composition
 - Developed a flexible calorie tracking system with multiple measurement units (grams, milliliters,
   portions, etc.)
@@ -99,11 +94,9 @@ Project: Fitness Application
 - Built a media service (Django + MinIO) for handling images and videos, allowing users to upload
   meal photos and workout recordings.
 - Added an article and sports activity section with video lessons, improving user engagement
-
 Stack: Django, Postgresql, Redis, RabbitMQ, GitHub actions, MinIO
 
 Project: Desktop Application for Automatic License Plate Recognition and Vehicle Weight Auditing
-
 - Designed the application architecture and interface to enhance usability.
 - Implemented license plate recognition from images and videos using Tesseract OCR, improving
   identification accuracy.
@@ -111,7 +104,6 @@ Project: Desktop Application for Automatic License Plate Recognition and Vehicle
 - Developed a dynamic settings system via an ini-file, allowing flexible parameter adjustments
   without recompilation.
 - Integrated API for weight scales, automating vehicle weight control and improving data accuracy.
-
 Stack: Python 3, OpenCV, PyQt6, SQLAlchemy, PyInstaller, SQLite, Docker, GitHub, Trello
 
 -------
@@ -121,7 +113,6 @@ Lukoil | November 2021 — June 2022 | https://lukoil.ru/
 Position: Backend developer
 
 Project: HR electronic document management service
-
 - Implemented document generation using DOCX templates, reducing manual workload for HR specialists
 - Developed a role-based access control (RBAC) system, ensuring flexible document access
   management and enhanced security
@@ -130,11 +121,9 @@ Project: HR electronic document management service
 - Integrated the service with a notification system via Kafka.
 - Optimized database performance, eliminating locks and high-load incidents
 - Designed and implemented a microservices migration plan, improving fault tolerance and scalability
-
 Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinlO, Portainer, PyTest, Kafka
 
 Project: Online recruitment service
-
 - Developed a flexible finite-state machine for candidate status transitions, enabling process
   customization to meet business needs
 - Integrated the service with passport verification and document parsing systems
@@ -145,7 +134,6 @@ Project: Online recruitment service
   modifications
 - Introduced email and phone verification for candidates, increasing data reliability and reducing
   fraud risks
-
 Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinlO, Portainer, PyTest, Kafka
 
 -------
@@ -155,7 +143,6 @@ Mobicult | June 2020 — November 2021 | https://mobicult.ru/
 Position: Backend developer
 
 Project: Mobile application for pet owners
-
 - Integrated veterinary clinic APIs (VetManagerAPI), enabling automatic access to medical records
 - Implemented integration with the CloudPayments payment system for primary appointment payments
   and donations to shelters
@@ -167,7 +154,6 @@ Project: Mobile application for pet owners
 - Implemented phone number verification for user authentication
 - Developed event and map point search functionality on the map (PostGIS, GeoAlchemy2), providing
   convenient navigation for pet owners
-
 Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, PyTest, CloudPayments, PostGIS,
        GeoAlchemy2
 
@@ -177,12 +163,10 @@ Project: admin panel for sending requests for pallet shipment
 - Implemented an event log for the admin panel, ensuring full user action auditability and
   improving system transparency
 - Provided ongoing support and feature enhancements, improving service stability
-
 Stack: Python, sanic, aiohttp (client), PyTest, PostgreSQL
 
 Project: Application for a Private Medical Clinic Franchise
 - Optimized the data synchronization algorithm, reducing record update time
 - Added API data caching, lowering server load and speeding up data retrieval for users
 - Provided ongoing support and feature enhancements, improving service stability
-
 Stack: Python, aiohttp (client + server), PyTest, PostgreSQL, Celery
