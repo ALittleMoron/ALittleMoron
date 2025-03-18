@@ -31,7 +31,7 @@ COMMERCIAL EXPERIENCE
 
 Compel | August 2024 — Nowadays | https://www.compel.ru/
 
-Position: Backend developer
+Position: senior backend developer
 
 Project: B2B Microservices
 - Increased test coverage from 27% to 95% across all microservices, significantly improving reliability and error detection
