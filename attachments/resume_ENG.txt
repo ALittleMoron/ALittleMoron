@@ -40,7 +40,7 @@ Languages: English - B1, Russian - native.
 
 COMMERCIAL EXPERIENCE
 
-Compel | August 2024 — Nowadays | https://www.compel.ru/
+Semimall Electronics | August 2024 — Nowadays | https://www.semimall.ru/
 
 Position: senior backend developer
 
@@ -108,7 +108,7 @@ Stack: Python 3, OpenCV, PyQt6, SQLAlchemy, PyInstaller, SQLite, Docker, GitHub,
 
 -------
 
-Lukoil | November 2021 — June 2022 | https://lukoil.ru/
+Lukoil | November 2021 — June 2022 | https://magnit.ru
 
 Position: Backend developer
 

@@ -37,7 +37,7 @@ enhancing the competencies of other developers. We can say that this is my hobby
 
 ## 👔 Commercial experience:
 
-- [Compel](https://www.compel.ru/) - 08/2024 - Nowadays
+- [Semimall Electronics](https://www.semimall.ru/) - 08/2024 - Nowadays
 - [Fortech](https://fortech.dev/) - 06/2022 - 08/2024
-- [Lukoil](https://lukoil.ru/) - 11/2021 - 06/2022
+- [Magnit](https://magnit.ru) - 11/2021 - 06/2022
 - [Mobicult](https://mobicult.ru/) - 06/2020 - 11/2021

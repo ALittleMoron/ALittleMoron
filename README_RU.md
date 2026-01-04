@@ -38,7 +38,7 @@ Backend Python разработчик с более чем 4-летним ком
 
 ## 👔 Коммерческий опыт:
 
-- [Compel](https://www.compel.ru/) - 08/2024 - по настоящее время
+- [Semimall Electronics](https://www.semimall.ru/) - 08/2024 - по настоящее время
 - [Fortech](https://fortech.dev/) - 06/2022 - 08/2024
-- [Lukoil](https://lukoil.ru/) - 11/2021 - 06/2022
+- [Lukoil](https://magnit.ru) - 11/2021 - 06/2022
 - [Mobicult](https://mobicult.ru/) - 06/2020 - 11/2021

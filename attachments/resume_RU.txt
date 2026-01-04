@@ -41,7 +41,7 @@ AWS (EC2, ECS, ECR, SES, S3), MinIO.
 
 КОММЕРЧЕСКИЙ ОПЫТ
 
-Compel | Август 2024 — по настоящее время | https://www.compel.ru/
+Semimall Electronics | Август 2024 — по настоящее время | https://www.semimall.ru/
 
 Должность: старший программист бэкенд
 
@@ -109,7 +109,7 @@ Fortech | Июнь 2022 — Август 2024 | https://fortech.dev/
 
 -------
 
-Lukoil (Дочерняя компания VK. Разработка для Лукойл) | Ноябрь 2021 — Июнь 2022 | https://lukoil.ru/
+Lukoil (Дочерняя компания VK. Разработка для Лукойл) | Ноябрь 2021 — Июнь 2022 | https://magnit.ru
 
 Должность: backend-разработчик
 
