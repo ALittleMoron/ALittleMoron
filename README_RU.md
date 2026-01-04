@@ -2,7 +2,6 @@
 
 [🇺🇸 English version](./README.md) |
 [🖹 Текстовое резюме](./attachments/resume_RU.txt) |
-[🖺 PDF резюме](./attachments/resume_RU.pdf)
 
 Телефон: [+79188739392](tel:79188739392) | Часовой пояс: Московский
 
@@ -40,5 +39,5 @@ Backend Python разработчик с более чем 4-летним ком
 
 - [Semimall Electronics](https://www.semimall.ru/) - 08/2024 - по настоящее время
 - [Fortech](https://fortech.dev/) - 06/2022 - 08/2024
-- [Lukoil](https://magnit.ru) - 11/2021 - 06/2022
+- [Magnit](https://magnit.ru) - 11/2021 - 06/2022
 - [Mobicult](https://mobicult.ru/) - 06/2020 - 11/2021

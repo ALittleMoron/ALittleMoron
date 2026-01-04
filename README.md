@@ -2,7 +2,6 @@
 
 [🇷🇺 Русская версия](./README_RU.md) |
 [🖹 Text resume](./attachments/resume_ENG.txt) |
-[🖺 PDF resume](./attachments/resume_ENG.pdf)
 
 Phone: [+79188739392](tel:79188739392) | Timezone: GMT+3
 
