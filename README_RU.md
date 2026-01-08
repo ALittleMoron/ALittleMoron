@@ -3,7 +3,7 @@
 [🇺🇸 English version](./README.md) |
 [🖹 Текстовое резюме](./attachments/resume_RU.txt) |
 
-Телефон: [+79188739392](tel:79188739392) | Часовой пояс: Московский
+Телефон: [+79936739392](tel:79936739392) | Часовой пояс: Московский
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=79188739392)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/alm_dmitriy_dev)

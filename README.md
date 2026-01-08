@@ -3,7 +3,7 @@
 [🇷🇺 Русская версия](./README_RU.md) |
 [🖹 Text resume](./attachments/resume_ENG.txt) |
 
-Phone: [+79188739392](tel:79188739392) | Timezone: GMT+3
+Phone: [+79936739392](tel:79936739392) | Timezone: GMT+3
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=79188739392)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/alm_dmitriy_dev)
