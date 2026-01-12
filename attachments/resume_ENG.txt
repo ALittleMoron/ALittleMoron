@@ -30,6 +30,11 @@ Semimall Electronics | August 2024 — Nowadays | https://www.semimall.ru/
 
 Position: senior backend developer
 
+General Responsibilities and Achievements:
+- Architecture Committee: Participation in discussions and decision-making on architectural solutions for new and existing services.
+- Candidate Evaluation: Conducting technical interviews.
+- Process Analysis and Improvement: Contributing to the development and refinement of team processes to improve efficiency and quality of work.
+
 Project: B2B Microservices
 - Increased test coverage from 27% to 95% across all microservices, significantly improving reliability and error detection
 - Optimized electronic component import, reducing service downtime from 6 hours to 20 minutes, accelerating database updates by 18x
@@ -39,13 +44,13 @@ Project: B2B Microservices
 - Integrated Kafka with FastStream, eliminating client blocking during PCB ordering and ensuring seamless request processing
 - Implemented a module for calculating the cost of goods taking into account multiple parameters, discounts, and markups.
 - Contributed to microservices architecture design, defining requirements for new services and decomposing monolithic solutions into independent modules
-Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, MinlO, PyTest, Kafka, Kibana, Sentry, KeyCloak, Behave, FastStream, Grafana.
+Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, MinlO, PyTest, Kafka, Kibana, Sentry, KeyCloak, Behave, FastStream, Grafana, locust, Docker, Kubernetes.
 
 Project: 360 performance review service
 - Optimized employee rating aggregation, reducing average server response time from 5 seconds to 800 ms, accelerating report generation by 6x
 - Implemented pagination in the department employee report, enhancing usability and reducing server load during data retrieval
 - Refactored the service to align with unified standards across all services, simplifying maintenance and scalability
-Stack: Python, Aiohttp, pypika, PostgreSQL, minio, keycloak, pytest.
+Stack: Python, Aiohttp, pypika, PostgreSQL, minio, keycloak, pytest, locust, Docker, Kubernetes.
 
 -------
 
@@ -64,7 +69,7 @@ Project: Fitness Application
 - Implemented a nutrition and macronutrient tracking journal, enabling users to monitor their nutrient balance
 - Built a media service (Django + MinIO) for handling images and videos, allowing users to upload meal photos and workout recordings.
 - Added an article and sports activity section with video lessons, improving user engagement
-Stack: Django, Postgresql, Redis, RabbitMQ, GitHub actions, MinIO
+Stack: Django, Postgresql, Redis, RabbitMQ, GitHub actions, MinIO.
 
 Project: Desktop Application for Automatic License Plate Recognition and Vehicle Weight Auditing
 - Designed the application architecture and interface to enhance usability.
@@ -72,7 +77,7 @@ Project: Desktop Application for Automatic License Plate Recognition and Vehicle
 - Configured a Windows application installer using PyInstaller, simplifying deployment for clients.
 - Developed a dynamic settings system via an ini-file, allowing flexible parameter adjustments without recompilation.
 - Integrated API for weight scales, automating vehicle weight control and improving data accuracy.
-Stack: Python 3, OpenCV, PyQt6, SQLAlchemy, PyInstaller, SQLite, Docker, GitHub, Trello
+Stack: Python 3, OpenCV, PyQt6, SQLAlchemy, PyInstaller, SQLite, Docker, GitHub, Trello.
 
 -------
 
@@ -87,7 +92,7 @@ Project: HR electronic document management service
 - Integrated the service with a notification system via Kafka.
 - Optimized database performance, eliminating locks and high-load incidents
 - Designed and implemented a microservices migration plan, improving fault tolerance and scalability
-Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinlO, Portainer, PyTest, Kafka
+Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinlO, Portainer, PyTest, Kafka.
 
 Project: Online recruitment service
 - Developed a flexible finite-state machine for candidate status transitions, enabling process customization to meet business needs
@@ -96,7 +101,7 @@ Project: Online recruitment service
 - Connected the service to the notification system via Kafka
 - Added a dynamic field and block system, allowing flexible form customization without code modifications
 - Introduced email and phone verification for candidates, increasing data reliability and reducing fraud risks
-Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinlO, Portainer, PyTest, Kafka
+Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinlO, Portainer, PyTest, Kafka.
 
 -------
 
@@ -113,17 +118,17 @@ Project: Mobile application for pet owners
 - Created an onboarding customization system via the admin panel, increasing new user conversion rates
 - Implemented phone number verification for user authentication
 - Developed event and map point search functionality on the map (PostGIS, GeoAlchemy2), providing convenient navigation for pet owners
-Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, PyTest, CloudPayments, PostGIS, GeoAlchemy2
+Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, PyTest, CloudPayments, PostGIS, GeoAlchemy2.
 
 Project: admin panel for sending requests for pallet shipment
 - Refactored external service API interaction, migrating from XML to JSON
 - Added a request queue to prevent processing bottlenecks
 - Implemented an event log for the admin panel, ensuring full user action auditability and improving system transparency
 - Provided ongoing support and feature enhancements, improving service stability
-Stack: Python, sanic, aiohttp (client), PyTest, PostgreSQL
+Stack: Python, sanic, aiohttp (client), PyTest, PostgreSQL.
 
 Project: Application for a Private Medical Clinic Franchise
 - Optimized the data synchronization algorithm, reducing record update time
 - Added API data caching, lowering server load and speeding up data retrieval for users
 - Provided ongoing support and feature enhancements, improving service stability
-Stack: Python, aiohttp (client + server), PyTest, PostgreSQL, Celery
+Stack: Python, aiohttp (client + server), PyTest, PostgreSQL, Celery.
