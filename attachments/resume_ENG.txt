@@ -1,4 +1,4 @@
-Dmitriy Lunev | 4+ years of commercial experience | Python backend developer
+Dmitriy Lunev | 5+ years of commercial experience | Python backend developer
 
 Phone    : +79188739392 (WhatsApp allowed)
 Email    : dima.lunev14@gmail.com
@@ -9,7 +9,7 @@ LinkedIn : https://www.linkedin.com/in/dmitriy-lunev/
 
 ABOUT
 
-Python backend developer with 4+ years of commercial experience, working in different spheres like B2B, healthcare, veterinary, HR and others. Have 2 years of leading experience. Worked in teams ranging from 4 to 30 members, both remotely and on-side. Participated in all stages of full cycle of development: from gathering product owner requirements to establishing full automated release process (CI/CD).
+Python backend developer with 5+ years of commercial experience, working in different spheres like B2B, healthcare, veterinary, HR and others. Have 2 years of leading experience. Worked in teams ranging from 4 to 30 members, both remotely and on-side. Participated in all stages of full cycle of development: from gathering product owner requirements to establishing full automated release process (CI/CD).
 
 In addition to the core activities of the backend developer, I am also involved in mentoring and enhancing the competencies of other developers. We can say that this is my hobby.
 
