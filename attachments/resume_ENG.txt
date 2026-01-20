@@ -19,7 +19,8 @@ SKILLS
 
 Web: Python, Django, DRF, Flask, FastAPI, sqlalchemy, TortoiseORM, OpenCV, sanic, aiohttp (client & server), gino, PostgreSQL, Redis, RabbitMQ, Kafka, HTML, CSS, Bootstrap, JavaScript, TypeScript.
 Others: Linux (WSL and common Linux distros) + many linux CLI programs, bash, Makefile, Git, GitHub, GitLab, GitHub actions, GitLab CI, Docker, Docker-Compose, nginx, traefik, kubernetes, AWS (EC2, ECS, ECR, SES, S3), MinIO.
-Higher education: 2018 - 2022, The Platov South Russian State Polytechnic University (NPI), Faculty of Information Technology and Management, Computer software, Mathematical support and administration of information systems
+Education: Bachelor’s Degree in Information Systems Administration. South Russian State Polytechnic University (NPI)
+GPA: 3.25 / 4.0 (weighted, calculated from transcript)
 Languages: English - B1, Russian - native.
 
 ====================================================================================================
