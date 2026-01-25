@@ -9,7 +9,7 @@ LinkedIn : https://www.linkedin.com/in/dmitriy-lunev/
 
 ABOUT
 
-Python backend developer with 5+ years of commercial experience, working in different spheres like B2B, healthcare, veterinary, HR and others. Have 2 years of leading experience. Worked in teams ranging from 4 to 30 members, both remotely and on-side. Participated in all stages of full cycle of development: from gathering product owner requirements to establishing full automated release process (CI/CD).
+Python backend developer with 5+ years of commercial experience, working in different spheres like B2B, healthcare, veterinary, HR, and others. Have 2 years of leading experience. Worked in teams ranging from 4 to 30 members, both remotely and on-side. Participated in all stages of full cycle of development: from gathering product owner requirements to establishing full automated release process (CI/CD).
 
 In addition to the core activities of the backend developer, I am also involved in mentoring and enhancing the competencies of other developers. We can say that this is my hobby.
 
@@ -31,24 +31,32 @@ Semimall Electronics | August 2024 — Nowadays | https://www.semimall.ru/
 
 Position: senior backend developer
 
-General Responsibilities and Achievements:
+Technical Leadership Achievements:
+- Led a team of six backend engineers.
+- Introduced BDD scenarios as a single source of truth for requirements, used by both business stakeholders and engineering teams, ensuring alignment between expectations and implementation.
+- Implemented mandatory CI/CD quality gates (mypy, ruff, vulture, bandit, automated tests) blocking merges and deployments on violations, significantly improving code quality and reducing defects.
+- Established a unified BDD-based requirements workflow: trained analysts and QA to write requirements and test cases, and developers to translate BDD scenarios into code for business logic implementation.
+- Facilitated cross-team knowledge sharing through regular syncs and short-term developer rotations, improving codebase consistency and overall quality.
+
+General Responsibilities:
 - Architecture Committee: Participation in discussions and decision-making on architectural solutions for new and existing services.
 - Candidate Evaluation: Conducting technical interviews.
-- Process Analysis and Improvement: Contributing to the development and refinement of team processes to improve efficiency and quality of work.
+- Process Analysis and Improvement: Contributing to the development and refinement of team processes to improve the efficiency and quality of work.
 
+Development and coding:
 Project: B2B Microservices
 - Increased test coverage from 27% to 95% across all microservices, significantly improving reliability and error detection
-- Optimized electronic component import, reducing service downtime from 6 hours to 20 minutes, accelerating database updates by 18x
+- Optimized electronic component import, reducing service downtime from 6 hours to 20 minutes, speeding up database updates by 18x
 - Accelerated electronic component search, reducing average server response time from 1.2 seconds to 112 ms (10x improvement), enhancing request processing speed
 - Designed microservices architecture and APIs with a focus on reusability, reducing code duplication and simplifying scalability
 - Optimized testing and system analysis processes, improving release quality and reducing debugging costs
 - Integrated Kafka with FastStream, eliminating client blocking during PCB ordering and ensuring seamless request processing
 - Implemented a module for calculating the cost of goods taking into account multiple parameters, discounts, and markups.
 - Contributed to microservices architecture design, defining requirements for new services and decomposing monolithic solutions into independent modules
-Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, MinlO, PyTest, Kafka, Kibana, Sentry, KeyCloak, Behave, FastStream, Grafana, locust, Docker, Kubernetes.
+Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, MinIO, PyTest, Kafka, Kibana, Sentry, KeyCloak, Behave, FastStream, Grafana, locust, Docker, Kubernetes.
 
 Project: 360 performance review service
-- Optimized employee rating aggregation, reducing average server response time from 5 seconds to 800 ms, accelerating report generation by 6x
+- Optimized employee rating aggregation, reducing average server response time from 5 seconds to 800 ms, speeding up report generation by 6x
 - Implemented pagination in the department employee report, enhancing usability and reducing server load during data retrieval
 - Refactored the service to align with unified standards across all services, simplifying maintenance and scalability
 Stack: Python, Aiohttp, pypika, PostgreSQL, minio, keycloak, pytest, locust, Docker, Kubernetes.
@@ -60,7 +68,7 @@ Fortech | June 2022 — August 2024 | https://fortech.dev/
 Position: Head of Python Development
 
 Responsibilities:
-- Mentorship & Coaching: Trained new employees, supported their onboarding, assisted with technical challenges, and helped them master the tech stack.
+- Mentorship & Coaching: Trained new employees, supported their onboarding, helped with technical challenges, and helped them master the tech stack.
 - Candidate Evaluation: Conducted technical interviews, screenings, and assessments for Python developers
 - Hiring Process Optimization: Contributed to the development and refinement of the candidate evaluation system to improve hiring efficiency
 
@@ -89,11 +97,11 @@ Position: Backend developer
 Project: HR electronic document management service
 - Implemented document generation using DOCX templates, reducing manual workload for HR specialists
 - Developed a role-based access control (RBAC) system, ensuring flexible document access management and enhanced security
-- Added support for electronic document signing (simple and enhanced digital signatures), accelerating document processing
+- Added support for electronic document signing (simple and enhanced digital signatures), speeding up document processing
 - Integrated the service with a notification system via Kafka.
 - Optimized database performance, eliminating locks and high-load incidents
 - Designed and implemented a microservices migration plan, improving fault tolerance and scalability
-Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinlO, Portainer, PyTest, Kafka.
+Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinIO, Portainer, PyTest, Kafka.
 
 Project: Online recruitment service
 - Developed a flexible finite-state machine for candidate status transitions, enabling process customization to meet business needs
@@ -102,7 +110,7 @@ Project: Online recruitment service
 - Connected the service to the notification system via Kafka
 - Added a dynamic field and block system, allowing flexible form customization without code modifications
 - Introduced email and phone verification for candidates, increasing data reliability and reducing fraud risks
-Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinlO, Portainer, PyTest, Kafka.
+Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinIO, Portainer, PyTest, Kafka.
 
 -------
 
