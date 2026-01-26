@@ -29,7 +29,7 @@ COMMERCIAL EXPERIENCE
 
 Semimall Electronics | August 2024 — Nowadays | https://www.semimall.ru/
 
-Position: senior backend developer
+Position: Lead Backend Engineer
 
 Technical Leadership Achievements:
 - Led a team of six backend engineers.
