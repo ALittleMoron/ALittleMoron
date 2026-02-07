@@ -53,7 +53,7 @@ Project: B2B Microservices
 - Integrated Kafka with FastStream, eliminating client blocking during PCB ordering and ensuring seamless request processing
 - Implemented a module for calculating the cost of goods taking into account multiple parameters, discounts, and markups.
 - Contributed to microservices architecture design, defining requirements for new services and decomposing monolithic solutions into independent modules
-Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, MinIO, PyTest, Kafka, Kibana, Sentry, KeyCloak, Behave, FastStream, Grafana, locust, Docker, Kubernetes.
+Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, MinIO, PyTest, Kafka, Kibana, Sentry, KeyCloak, Behave, FastStream, Grafana, locust, Docker, Kubernetes, ETL, AirFlow.
 
 Project: 360 performance review service
 - Optimized employee rating aggregation, reducing average server response time from 5 seconds to 800 ms, speeding up report generation by 6x

@@ -52,7 +52,7 @@ Semimall Electronics | Август 2024 — по настоящее время 
 - Интегрировал Kafka с FastStream, исключив блокировку клиента при заказе печатных плат и обеспечив бесперебойную обработку запросов.
 - Реализовал модуль расчета стоимости товара с учетом множества параметров, скидок и наценок.
 - Участвовал в проектировании микросервисной архитектуры, формируя требования к новым сервисам и разделяя монолитные решения на независимые модули.
-Стек: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, MinIO, PyTest, Kafka, Kibana, Sentry, KeyCloak, Behave, FastStream, Grafana, locust, Docker, Kubernetes.
+Стек: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, MinIO, PyTest, Kafka, Kibana, Sentry, KeyCloak, Behave, FastStream, Grafana, locust, Docker, Kubernetes, ETL, AirFlow.
 
 Проект: Сервис для performance review сотрудников компании.
 - Оптимизировал агрегацию оценок сотрудников, снизив среднее время отклика сервера с 5 секунд до 800 мс.
