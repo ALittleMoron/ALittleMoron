@@ -18,7 +18,7 @@ Backend Python разработчик с более чем 5-летним ком
 НАВЫКИ И ТЕХНОЛОГИИ
 
 Веб-технологии: Python, Django, DRF, Flask, FastAPI, sqlalchemy, TortoiseORM, OpenCV, sanic, aiohttp (client & server), gino, PostgreSQL, Redis, RabbitMQ, Kafka, HTML, CSS, Bootstrap, JavaScript, TypeScript.
-Остальное: Linux (WSL and common Linux distros) + many linux CLI programs, bash, Makefile, Git, GitHub, GitLab, GitHub actions, GitLab CI, Docker, Docker-Compose, nginx, traefik, kubernetes, AWS (EC2, ECS, ECR, SES, S3), MinIO.
+Остальное: Linux (WSL and common Linux distros) + many linux CLI programs, bash, Makefile, Git, GitHub, GitLab, GitHub actions, GitLab CI, Docker, Docker-Compose, nginx, traefik, Kubernetes (K8s), AWS (EC2, ECS, ECR, SES, S3), MinIO.
 Образование: 2018 - 2022, Южно-Российский Государственный Технический Университет (Новочеркасский Политехнический Университет) имени М.И. Платова, Факультет информационных технологий и управления, Программное обеспечение вычислительной техники, Математическое обеспечение и администрирование информационных систем
 Языки: Английски - средний (читаю, пишу, говорю без словаря), Русский - носитель языка.
 
@@ -38,7 +38,7 @@ Semimall Electronics | Август 2024 — по настоящее время 
 - Организовал кросс-командный обмен экспертизой через регулярные синхронизации и временные ротации разработчиков, что повысило единообразие и качество кодовой базы.
 
 Общие обязанности:
-- Архитектурный коммитет: участие в обсуждении и принятии архитектурных решений по новым и существующим сервисам.
+- Архитектурный комитет: участие в обсуждении и принятии архитектурных решений по новым и существующим сервисам.
 - Оценка кандидатов: проведение технических интервью.
 - Анализ и улучшение процессов: участие в формировании процессов в команде для повышения эффективности и качества работы.
 
@@ -89,7 +89,7 @@ Fortech | Июнь 2022 — Август 2024 | https://fortech.dev/
 
 -------
 
-Magnit (Дочерняя компания VK. Аутсорс разработка для Магнит) | Ноябрь 2021 — Июнь 2022 | https://magnit.ru
+Magnit (Дочерняя компания VK. Аутсорс разработка для Магнита) | Ноябрь 2021 — Июнь 2022 | https://magnit.ru
 
 Должность: backend-разработчик
 

@@ -9,7 +9,7 @@ LinkedIn : https://www.linkedin.com/in/dmitriy-lunev/
 
 ABOUT
 
-Python backend developer with 5+ years of commercial experience, working in different spheres like B2B, healthcare, veterinary, HR, and others. Have 2 years of leading experience. Worked in teams ranging from 4 to 30 members, both remotely and on-side. Participated in all stages of full cycle of development: from gathering product owner requirements to establishing full automated release process (CI/CD).
+Python backend developer with 5+ years of commercial experience, working in different spheres like B2B, healthcare, veterinary, HR, and others. Have 2 years of leading experience. Worked in teams ranging from 4 to 30 members, both remotely and onside. Participated in all stages of the full cycle of development: from gathering product owner requirements to establishing a full automated release process (CI/CD).
 
 In addition to the core activities of the backend developer, I am also involved in mentoring and enhancing the competencies of other developers. We can say that this is my hobby.
 
@@ -17,8 +17,8 @@ In addition to the core activities of the backend developer, I am also involved 
 
 SKILLS
 
-Web: Python, Django, DRF, Flask, FastAPI, sqlalchemy, TortoiseORM, OpenCV, sanic, aiohttp (client & server), gino, PostgreSQL, Redis, RabbitMQ, Kafka, HTML, CSS, Bootstrap, JavaScript, TypeScript.
-Others: Linux (WSL and common Linux distros) + many linux CLI programs, bash, Makefile, Git, GitHub, GitLab, GitHub actions, GitLab CI, Docker, Docker-Compose, nginx, traefik, kubernetes, AWS (EC2, ECS, ECR, SES, S3), MinIO.
+Web: Python, Django, DRF, Flask, FastAPI, sqlalchemy, TortoiseORM, OpenCV, sanic, aiohttp (client and server), gino, PostgreSQL, Redis, RabbitMQ, Kafka, HTML, CSS, Bootstrap, JavaScript, TypeScript.
+Others: Linux (WSL and common Linux distros) + many linux CLI programs, bash, Makefile, Git, GitHub, GitLab, GitHub actions, GitLab CI, Docker, Docker-Compose, nginx, traefik, Kubernetes (K8s), AWS (EC2, ECS, ECR, SES, S3), MinIO.
 Education: Bachelor’s Degree in Information Systems Administration. South Russian State Polytechnic University (NPI)
 GPA: 3.25 / 4.0 (weighted, calculated from transcript)
 Languages: English - B1, Russian - native.
@@ -108,7 +108,7 @@ Project: Online recruitment service
 - Integrated the service with passport verification and document parsing systems
 - Implemented seamless integration with the HR document management system, automating document creation and signing upon hiring
 - Connected the service to the notification system via Kafka
-- Added a dynamic field and block system, allowing flexible form customization without code modifications
+- Added a dynamic field and block system, allowing flexible form customization without code changes
 - Introduced email and phone verification for candidates, increasing data reliability and reducing fraud risks
 Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinIO, Portainer, PyTest, Kafka.
 
@@ -140,4 +140,4 @@ Project: Application for a Private Medical Clinic Franchise
 - Optimized the data synchronization algorithm, reducing record update time
 - Added API data caching, lowering server load and speeding up data retrieval for users
 - Provided ongoing support and feature enhancements, improving service stability
-Stack: Python, aiohttp (client + server), PyTest, PostgreSQL, Celery.
+Stack: Python, aiohttp (client and server), PyTest, PostgreSQL, Celery.
