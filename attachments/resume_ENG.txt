@@ -114,7 +114,7 @@ Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinIO, Portaine
 
 -------
 
-Mobicult | June 2020 — November 2021 | https://mobicult.ru/
+Mobicult | February 2020 — November 2021 | https://mobicult.ru/
 
 Position: Backend developer
 
