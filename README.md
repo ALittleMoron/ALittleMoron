@@ -12,7 +12,7 @@ Phone: [+79936739392](tel:79936739392) | Timezone: GMT+3
 
 ## 💬 About
 
-Python backend developer with 5+ years of commercial experience, working in different spheres like
+Python backend developer with 6+ years of commercial experience, working in different spheres like
 B2B, healthcare, veterinary, HR and others. Have 2+ years of leading experience. Worked in teams
 ranging from 4 to 30 members, both remotely and onside. Participated in all stages of the full cycle  
 of development: from gathering product owner requirements to establishing a full automated release
@@ -24,7 +24,7 @@ enhancing the competencies of other developers. We can say that this is my hobby
 # ⚙️ Skills
 
 - **Web**: Python, Django, DRF, Flask, FastAPI, sqlalchemy, TortoiseORM, OpenCV, sanic,
-  aiohttp (client & server), gino, PostgreSQL, Redis, RabbitMQ, Kafka, HTML, CSS,
+  aiohttp (client and server), gino, PostgreSQL, Redis, RabbitMQ, Kafka, HTML, CSS,
   Bootstrap, JavaScript, TypeScript.
 - **Others**: Linux (WSL and common Linux distros) + many linux CLI programs, bash, Makefile,
   Git, GitHub, GitLab, GitHub actions, GitLab CI, Docker, Docker-Compose, nginx,
@@ -32,7 +32,7 @@ enhancing the competencies of other developers. We can say that this is my hobby
 - **Higher education**: 2018–2022, The Platov South Russian State Polytechnic University (NPI),
   Faculty of Information Technology and Management, Computer software, Mathematical support and
   administration of information systems
-- **Languages**: English - B1, Russian - native.
+- **Languages**: English - B2, Russian - native.
 
 ## 👔 Commercial experience:
 

@@ -12,7 +12,7 @@
 
 ## 💬 Обо мне
 
-Backend Python разработчик с более чем 5-летним коммерческим опытом работы в различных сферах,
+Backend Python разработчик с более чем 6-летним коммерческим опытом работы в различных сферах,
 таких как B2B, здравоохранение, ветеринария, HR и другие. Имею 2+ года опыта руководства 
 сотрудниками. Работал в командах от 4 до 30 членов, как удаленно, так и в офисе. Участвовал
 во всех этапах полного цикла разработки: от сбора требований заказчика до создания полного
@@ -24,7 +24,7 @@ Backend Python разработчик с более чем 5-летним ком
 # ⚙️ Навыки и технологии
 
 - **Веб-технологии**: Python, Django, DRF, Flask, FastAPI, sqlalchemy, TortoiseORM, OpenCV, sanic,
-  aiohttp (client and server), gino, PostgreSQL, Redis, RabbitMQ, Kafka, HTML, CSS,
+  aiohttp (клиент и сервер), gino, PostgreSQL, Redis, RabbitMQ, Kafka, HTML, CSS,
   Bootstrap, JavaScript, TypeScript.
 - **Остальное**: Linux (WSL and common Linux distros) + many linux CLI programs, bash, Makefile,
   Git, GitHub, GitLab, GitHub actions, GitLab CI, Docker, Docker-Compose, nginx,

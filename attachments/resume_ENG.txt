@@ -1,4 +1,4 @@
-Dmitriy Lunev | 5+ years of commercial experience | Python backend developer
+Dmitriy Lunev | 6+ years of commercial experience | Python backend developer
 
 Phone    : +79936739392 (WhatsApp allowed)
 Email    : d.lunev.dev@gmail.com
@@ -9,7 +9,7 @@ LinkedIn : https://www.linkedin.com/in/dmitriy-lunev/
 
 ABOUT
 
-Python backend developer with 5+ years of commercial experience, working in different spheres like B2B, healthcare, veterinary, HR, and others. Have 2 years of leading experience. Worked in teams ranging from 4 to 30 members, both remotely and onside. Participated in all stages of the full cycle of development: from gathering product owner requirements to establishing a full automated release process (CI/CD).
+Python backend developer with 6+ years of commercial experience, working in different spheres like B2B, healthcare, veterinary, HR, and others. Have 2 years of leading experience. Worked in teams ranging from 4 to 30 members, both remotely and onside. Participated in all stages of the full cycle of development: from gathering product owner requirements to establishing a full automated release process (CI/CD).
 
 In addition to the core activities of the backend developer, I am also involved in mentoring and enhancing the competencies of other developers. We can say that this is my hobby.
 
@@ -21,7 +21,7 @@ Web: Python, Django, DRF, Flask, FastAPI, sqlalchemy, TortoiseORM, OpenCV, sanic
 Others: Linux (WSL and common Linux distros) + many linux CLI programs, bash, Makefile, Git, GitHub, GitLab, GitHub actions, GitLab CI, Docker, Docker-Compose, nginx, traefik, Kubernetes (K8s), AWS (EC2, ECS, ECR, SES, S3), MinIO.
 Education: Bachelor’s Degree in Information Systems Administration. South Russian State Polytechnic University (NPI)
 GPA: 3.25 / 4.0 (weighted, calculated from transcript)
-Languages: English - B1, Russian - native.
+Languages: English - B2, Russian - native.
 
 ====================================================================================================
 
@@ -33,15 +33,11 @@ Position: Lead Backend Engineer
 
 Technical Leadership Achievements:
 - Led a team of six backend engineers.
+- Architecture Committee: Participation in discussions and decision-making on architectural solutions for new and existing services.
 - Introduced BDD scenarios as a single source of truth for requirements, used by both business stakeholders and engineering teams, ensuring alignment between expectations and implementation.
 - Implemented mandatory CI/CD quality gates (mypy, ruff, vulture, bandit, automated tests) blocking merges and deployments on violations, significantly improving code quality and reducing defects.
 - Established a unified BDD-based requirements workflow: trained analysts and QA to write requirements and test cases, and developers to translate BDD scenarios into code for business logic implementation.
 - Facilitated cross-team knowledge sharing through regular syncs and short-term developer rotations, improving codebase consistency and overall quality.
-
-General Responsibilities:
-- Architecture Committee: Participation in discussions and decision-making on architectural solutions for new and existing services.
-- Candidate Evaluation: Conducting technical interviews.
-- Process Analysis and Improvement: Contributing to the development and refinement of team processes to improve the efficiency and quality of work.
 
 Development and coding:
 Project: B2B Microservices
@@ -55,11 +51,16 @@ Project: B2B Microservices
 - Contributed to microservices architecture design, defining requirements for new services and decomposing monolithic solutions into independent modules
 Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, MinIO, PyTest, Kafka, Kibana, Sentry, KeyCloak, Behave, FastStream, Grafana, locust, Docker, Kubernetes, ETL, AirFlow.
 
-Project: 360 performance review service
-- Optimized employee rating aggregation, reducing average server response time from 5 seconds to 800 ms, speeding up report generation by 6x
-- Implemented pagination in the department employee report, enhancing usability and reducing server load during data retrieval
-- Refactored the service to align with unified standards across all services, simplifying maintenance and scalability
-Stack: Python, Aiohttp, pypika, PostgreSQL, minio, keycloak, pytest, locust, Docker, Kubernetes.
+Project: AI Platform for Business Requirements Formalization (Internal Service)
+- Designed the architecture of an AI platform with a focus on scalability and secure handling of internal company data.
+- Developed a chat-based service with session management, conversation history, and context control.
+- Integrated an internal LLM via an OpenAI-compatible API.
+- Used LangChain to orchestrate LLM interactions, manage prompt chains, and handle contextual processing.
+- Implemented a retrieval mechanism for internal documentation using a RAG (Retrieval-Augmented Generation) approach.
+- Set up vector storage for embeddings to enable semantic search over company documents.
+- Implemented RBAC-based access control for platform functionality.
+- Configured monitoring for latency, token usage, and response quality metrics.
+Stack: Python, FastAPI, PostgreSQL, MinIO, Redis, Docker, Kubernetes, Keycloak, Prometheus/Grafana, LangChain, RAG, OpenAI-compatible API
 
 -------
 
