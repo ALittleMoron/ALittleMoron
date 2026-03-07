@@ -3,7 +3,7 @@
 [🇷🇺 Русская версия](./README_RU.md) |
 [🖹 Text resume](./attachments/resume_ENG.txt) |
 
-Phone: [+79936739392](tel:79936739392) | Timezone: GMT+3
+Phone: [+37498901459](tel:37498901459) | Timezone: GMT+3
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=79188739392)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/alm_dmitriy_dev)
@@ -13,7 +13,7 @@ Phone: [+79936739392](tel:79936739392) | Timezone: GMT+3
 ## 💬 About
 
 Python backend developer with 6+ years of commercial experience, working in different spheres like
-B2B, healthcare, veterinary, HR and others. Have 2+ years of leading experience. Worked in teams
+B2B, healthcare, veterinary, HR and others. Have 3+ years of leading experience. Worked in teams
 ranging from 4 to 30 members, both remotely and onside. Participated in all stages of the full cycle  
 of development: from gathering product owner requirements to establishing a full automated release
 process (CI/CD).
@@ -37,6 +37,4 @@ enhancing the competencies of other developers. We can say that this is my hobby
 ## 👔 Commercial experience:
 
 - [Semimall Electronics](https://www.semimall.ru/) - 08/2024 - Nowadays
-- [Fortech](https://fortech.dev/) - 06/2022 - 08/2024
-- [Magnit](https://magnit.ru) - 11/2021 - 06/2022
-- [Mobicult](https://mobicult.ru/) - 02/2020 - 11/2021
+- [Fortech](https://fortech.dev/) - 02/2020 - 08/2024

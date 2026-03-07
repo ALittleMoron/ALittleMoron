@@ -1,6 +1,6 @@
 Dmitriy Lunev | 6+ years of commercial experience | Python backend developer
 
-Phone    : +79936739392 (WhatsApp allowed)
+Phone    : +37498901459 (WhatsApp text/calls allowed)
 Email    : d.lunev.dev@gmail.com
 Telegram : https://t.me/alm_dmitriy_dev
 LinkedIn : https://www.linkedin.com/in/dmitriy-lunev/
@@ -64,9 +64,9 @@ Stack: Python, FastAPI, PostgreSQL, MinIO, Redis, Docker, Kubernetes, Keycloak, 
 
 -------
 
-Fortech | June 2022 — August 2024 | https://fortech.dev/
+Fortech | February 2020 — August 2024 | https://fortech.dev/
 
-Position: Head of Python Development
+Position: Head of Python Development (June 2022 — August 2024)
 
 Responsibilities:
 - Mentorship & Coaching: Trained new employees, supported their onboarding, helped with technical challenges, and helped them master the tech stack.
@@ -81,19 +81,18 @@ Project: Fitness Application
 - Added an article and sports activity section with video lessons, improving user engagement
 Stack: Django, Postgresql, Redis, RabbitMQ, GitHub actions, MinIO.
 
-Project: Desktop Application for Automatic License Plate Recognition and Vehicle Weight Auditing
-- Designed the application architecture and interface to enhance usability.
-- Implemented license plate recognition from images and videos using Tesseract OCR, improving identification accuracy.
-- Configured a Windows application installer using PyInstaller, simplifying deployment for clients.
-- Developed a dynamic settings system via an ini-file, allowing flexible parameter adjustments without recompilation.
-- Integrated API for weight scales, automating vehicle weight control and improving data accuracy.
-Stack: Python 3, OpenCV, PyQt6, SQLAlchemy, PyInstaller, SQLite, Docker, GitHub, Trello.
+Project: Mobile application for pet owners
+- Integrated veterinary clinic APIs (VetManagerAPI), enabling automatic access to medical records
+- Implemented integration with the CloudPayments payment system for primary appointment payments and donations to shelters
+- Collaborated with the client to formalize business requirements
+- Developed a reminder system, allowing users to schedule pet care automatically
+- Built a clinic moderation system, accelerating verification and publication processes
+- Created an onboarding customization system via the admin panel, increasing new user conversion rates
+- Implemented phone number verification for user authentication
+- Developed event and map point search functionality on the map (PostGIS, GeoAlchemy2), providing convenient navigation for pet owners
+Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, PyTest, CloudPayments, PostGIS, GeoAlchemy2.
 
--------
-
-Magnit | November 2021 — June 2022 | https://magnit.ru
-
-Position: Backend developer
+Position: Backend developer (February 2020 — June 2022)
 
 Project: HR electronic document management service
 - Implemented document generation using DOCX templates, reducing manual workload for HR specialists
@@ -113,23 +112,6 @@ Project: Online recruitment service
 - Introduced email and phone verification for candidates, increasing data reliability and reducing fraud risks
 Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinIO, Portainer, PyTest, Kafka.
 
--------
-
-Mobicult | February 2020 — November 2021 | https://mobicult.ru/
-
-Position: Backend developer
-
-Project: Mobile application for pet owners
-- Integrated veterinary clinic APIs (VetManagerAPI), enabling automatic access to medical records
-- Implemented integration with the CloudPayments payment system for primary appointment payments and donations to shelters
-- Collaborated with the client to formalize business requirements
-- Developed a reminder system, allowing users to schedule pet care automatically
-- Built a clinic moderation system, accelerating verification and publication processes
-- Created an onboarding customization system via the admin panel, increasing new user conversion rates
-- Implemented phone number verification for user authentication
-- Developed event and map point search functionality on the map (PostGIS, GeoAlchemy2), providing convenient navigation for pet owners
-Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, PyTest, CloudPayments, PostGIS, GeoAlchemy2.
-
 Project: admin panel for sending requests for pallet shipment
 - Refactored external service API interaction, migrating from XML to JSON
 - Added a request queue to prevent processing bottlenecks
@@ -142,3 +124,11 @@ Project: Application for a Private Medical Clinic Franchise
 - Added API data caching, lowering server load and speeding up data retrieval for users
 - Provided ongoing support and feature enhancements, improving service stability
 Stack: Python, aiohttp (client and server), PyTest, PostgreSQL, Celery.
+
+Project: Desktop Application for Automatic License Plate Recognition and Vehicle Weight Auditing
+- Designed the application architecture and interface to enhance usability.
+- Implemented license plate recognition from images and videos using Tesseract OCR, improving identification accuracy.
+- Configured a Windows application installer using PyInstaller, simplifying deployment for clients.
+- Developed a dynamic settings system via an ini-file, allowing flexible parameter adjustments without recompilation.
+- Integrated API for weight scales, automating vehicle weight control and improving data accuracy.
+Stack: Python 3, OpenCV, PyQt6, SQLAlchemy, PyInstaller, SQLite, Docker, GitHub, Trello.
