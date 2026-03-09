@@ -29,7 +29,7 @@ COMMERCIAL EXPERIENCE
 
 Semimall Electronics | August 2024 — Nowadays | https://www.semimall.ru/
 
-Position: Lead Backend Engineer
+Position: Lead Backend Engineer (August 2024 — Nowadays)
 
 Technical Leadership Achievements:
 - Led a team of six backend engineers.
@@ -92,7 +92,7 @@ Project: Mobile application for pet owners
 - Developed event and map point search functionality on the map (PostGIS, GeoAlchemy2), providing convenient navigation for pet owners
 Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, PyTest, CloudPayments, PostGIS, GeoAlchemy2.
 
-Position: Backend developer (February 2020 — June 2022)
+Position: Senior Backend developer (January 2021 — June 2022)
 
 Project: HR electronic document management service
 - Implemented document generation using DOCX templates, reducing manual workload for HR specialists
@@ -111,6 +111,8 @@ Project: Online recruitment service
 - Added a dynamic field and block system, allowing flexible form customization without code changes
 - Introduced email and phone verification for candidates, increasing data reliability and reducing fraud risks
 Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinIO, Portainer, PyTest, Kafka.
+
+Position: Backend developer (February 2020 — January 2021)
 
 Project: admin panel for sending requests for pallet shipment
 - Refactored external service API interaction, migrating from XML to JSON
