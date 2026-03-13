@@ -31,7 +31,7 @@ enhancing the competencies of other developers. We can say that this is my hobby
   traefik, kubernetes, AWS (EC2, ECS, ECR, SES, S3), MinIO.
 - **Higher education**: 2018–2022, The Platov South Russian State Polytechnic University (NPI),
   Faculty of Information Technology and Management, Computer software, Mathematical support and
-  administration of information systems
+  administration of information systems.
 - **Languages**: English - B2, Russian - native.
 
 ## 👔 Commercial experience:
