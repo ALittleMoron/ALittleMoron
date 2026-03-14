@@ -59,7 +59,7 @@ Project: B2B Microservices
 • Implemented a module for calculating the cost of goods taking into account multiple parameters, discounts, and markups.
 • Contributed to microservices architecture design, defining requirements for new services and decomposing monolithic solutions into independent modules
 Scale: dozens of interconnected microservices, hundreds of thousands of electronic components indexed, thousands of search and ordering requests processed daily
-Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, MinIO, PyTest, Kafka, Kibana, Sentry, KeyCloak, Behave, FastStream, Grafana, OpenTelemetry, Locust, Docker, Kubernetes, ETL, AirFlow, gRPC
+Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, MongoDB, FastAPI, MinIO, PyTest, Kafka, Kibana, Sentry, KeyCloak, Behave, FastStream, Grafana, OpenTelemetry, Locust, Docker, Kubernetes, ETL, AirFlow, gRPC.
 
 Project: AI Platform for Business Requirements Formalization (Internal Service)
 • Designed the architecture of an AI platform with a focus on scalability and secure handling of internal company data.
@@ -131,14 +131,14 @@ Project: admin panel for sending requests for pallet shipment
 • Implemented an event log for the admin panel, ensuring full user action auditability and improving system transparency
 • Provided ongoing support and feature enhancements, improving service stability
 Scale: 10+ users, thousands of shipment requests processed monthly, hundreds of queued operations daily
-Stack: Python, sanic, aiohttp (client), PyTest, PostgreSQL.
+Stack: Python, sanic, aiohttp (client), PyTest, PostgreSQL, RabbitMQ, Celery.
 
 Project: Application for a Private Medical Clinic Franchise
 • Optimized the data synchronization algorithm, reducing record update time
 • Added API data caching, lowering server load and speeding up data retrieval for users
 • Provided ongoing support and feature enhancements, improving service stability
 Scale: thousands of patient records synchronized, hundreds of daily API synchronization operations, multiple clinic branches connected
-Stack: Python, aiohttp (client and server), PyTest, PostgreSQL, Celery.
+Stack: Python, aiohttp (client and server), PyTest, PostgreSQL, Celery, RabbitMQ, Redis.
 
 Project: Desktop Application for Automatic License Plate Recognition and Vehicle Weight Auditing
 • Designed the application architecture and interface to enhance usability.

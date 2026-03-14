@@ -57,7 +57,7 @@ GPA: 3.3 / 4.0 (взвешенный, рассчитанный из расшиф
 • Реализовал модуль расчета стоимости товара с учетом множества параметров, скидок и наценок.
 • Участвовал в проектировании микросервисной архитектуры, формируя требования к новым сервисам и разделяя монолитные решения на независимые модули.
 Масштаб: десятки взаимосвязанных микросервисов, ежедневно обрабатываются тысячи запросов на поиск и заказ
-Стек: Python, Pydantic, SQLAlchemy, PostgreSQL, MongoDB, FastAPI, MinIO, PyTest, Kafka, Kibana, Sentry, KeyCloak, Behave, FastStream, Grafana, locust, Docker, Kubernetes, ETL, AirFlow.
+Стэк: Python, Pydantic, SQLAlchemy, PostgreSQL, MongoDB, FastAPI, MinIO, PyTest, Kafka, Kibana, Sentry, KeyCloak, Behave, FastStream, Grafana, OpenTelemetry, Locust, Docker, Kubernetes, ETL, AirFlow, gRPC.
 
 Проект: AI-платформа для формализации бизнес-требований (внутренний сервис).
 • Спроектировал архитектуру AI-платформы с учетом масштабируемости и безопасной работы с внутренними данными.
@@ -69,7 +69,7 @@ GPA: 3.3 / 4.0 (взвешенный, рассчитанный из расшиф
 • Реализовал RBAC-доступ к функциональности сервиса.
 • Настроил мониторинг latency, токенов и качества ответов.
 Масштаб: внутренняя платформа, используемая несколькими командами, тысячи документов, индексируемых для семантического поиска, сотни сеансов анализа требований с помощью ИИ ежедневно
-Стек: Python, FastAPI, PostgreSQL, Qdrant, MinIO, Redis, Docker, Kubernetes, Keycloak, Prometheus/Grafana, LangChain, RAG, OpenAI-compatible API
+Стэк: Python, FastAPI, PostgreSQL, Qdrant, MinIO, Redis, Docker, Kubernetes, Keycloak, Prometheus/Grafana, LangChain, RAG, OpenAI-compatible API, platform engineering.
 
 Компания: Fortech
 Сайт компании: fortech.dev
@@ -91,7 +91,7 @@ GPA: 3.3 / 4.0 (взвешенный, рассчитанный из расшиф
 • Внедрил авторизацию через подтверждение номера телефона.
 • Реализовал поиск мероприятий и ключевых точек на карте (PostGIS, GeoAlchemy2), обеспечив удобную навигацию по мероприятиям и ключевым точкам для владельцев питомцев.
 Масштаб: 1000+ пользователей, сотни ежедневных API-запросов к ветеринарным системам, тысячи геолокационных запросов и напоминаний, обрабатываемых ежедневно
-Стек: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, PyTest, CloudPayments, PostGIS, GeoAlchemy2, Celery, RabbitMQ, Redis.
+Стэк: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, PyTest, CloudPayments, PostGIS, GeoAlchemy2, gRPC.
 
 Компания: Fortech
 Сайт компании: fortech.dev
@@ -105,7 +105,7 @@ GPA: 3.3 / 4.0 (взвешенный, рассчитанный из расшиф
 • Оптимизировал работу базы данных, что привело к повышению стабильности работы в период повышенной нагрузки на сервис.
 • Разработал и внедрил план разделения сервиса на микросервисную архитектуру.
 Масштаб: более 10 000 пользователей, сотни ежедневных операций с документами, тысячи событий, связанных с документами, обрабатываемых ежедневно
-Стек: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinIO, Portainer, PyTest, Kafka.
+Стэк: Python, FastAPI, Pydantic, SQLAlchemy, PostgreSQL, Redis, Kafka, MinIO, Portainer, PyTest.
 
 Проект: онлайн-приём кандидатов на работу.
 • Реализовал гибкий конечный автомат смены статусов кандидата, обеспечив возможность кастомизации процесса под потребности бизнеса.
