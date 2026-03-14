@@ -30,7 +30,7 @@ Frontend: HTML, CSS, Bootstrap, JavaScript, TypeScript, HTMX, HyperScript.
 GPA: 3.3 / 4.0 (взвешенный, рассчитанный из расшифровки)
 Языки: Английски - B2, Русский - носитель языка.
 
-КОММЕРЧЕСКИЙ ОПЫТ
+ОПЫТ
 
 Компания: Semimall Electronics
 Сайт компании: www.semimall.ru
