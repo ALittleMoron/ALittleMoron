@@ -84,11 +84,11 @@ Responsibilities:
 • Hiring Process Optimization: Contributed to the development and refinement of the candidate evaluation system to improve hiring efficiency.
 
 Project: Fitness Application.
-- Integrated product APIs to automate nutritional value calculation based on ingredient composition.
-- Developed a flexible calorie tracking system with multiple measurement units (grams, milliliters, portions, etc.).
-- Implemented a nutrition and macronutrient tracking journal, enabling users to monitor their nutrient balance.
-- Built a media service (Django + MinIO) for handling images and videos, allowing users to upload meal photos and workout recordings.
-- Added an article and sports activity section with video lessons, improving user engagement.
+• Integrated product APIs to automate nutritional value calculation based on ingredient composition.
+• Developed a flexible calorie tracking system with multiple measurement units (grams, milliliters, portions, etc.).
+• Implemented a nutrition and macronutrient tracking journal, enabling users to monitor their nutrient balance.
+• Built a media service (Django + MinIO) for handling images and videos, allowing users to upload meal photos and workout recordings.
+• Added an article and sports activity section with video lessons, improving user engagement.
 Scale: 10,000+ users, tens of thousands of daily processing of activity logs, hundreds of thousands of daily operations for accounting for eaten products and counting macronutrients.
 Stack: Django, Django Rest Framework, Celery, Django-Channels, Postgresql, Redis, RabbitMQ, Kubernetes, Helm, MinIO.
 
