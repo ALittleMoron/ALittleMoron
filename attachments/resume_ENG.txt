@@ -16,9 +16,9 @@ Backend Software Engineer with 6+ years of experience building scalable backend 
 
 SKILLS
 
-Backend: Python, Django, Django REST Framework (DRF), Flask, FastAPI, Sanic, aiohttp (client and server), Celery, SQLAlchemy, Tortoise ORM, GINO, REST APIs, microservices architecture, asynchronous programming, asyncio.
+Backend: Python, Django, Django REST Framework (DRF), Django-Channels, Flask, FastAPI, Sanic, aiohttp (client and server), Celery, SQLAlchemy, Tortoise ORM, GINO, REST APIs, microservices architecture, asynchronous programming, asyncio.
 Databases: PostgreSQL, Apache Cassandra, Valkey, Redis, database design, SQL, query optimization, indexing, transactions.
-DevOps/Cloud: Linux (WSL and common Linux distros) + many Linux CLI programs, bash, Makefile, Git, GitHub, GitLab, GitHub Actions, GitLab CI/CD, Docker, Docker Compose, nginx, Traefik, Kubernetes (K8s), AWS (EC2, ECS, ECR, SES, S3), MinIO, containerization, CI/CD pipelines, RabbitMQ, Apache Kafka, OpenTelemetry, Prometheus, observability, monitoring.
+DevOps/Cloud: Linux (WSL and common Linux distros) + many Linux CLI programs, bash, Makefile, Git, GitHub, GitLab, GitHub Actions, GitLab CI/CD, Docker, Docker Compose, nginx, Traefik, Kubernetes (K8s), Helm, Terraform, AWS (EC2, ECS, ECR, SES, S3), MinIO, containerization, CI/CD pipelines, RabbitMQ, Apache Kafka, OpenTelemetry, Prometheus, observability, monitoring.
 Testing: pytest, locust, unit testing, integration testing, mocking.
 Architecture: REST APIs, gRPC, WebSockets, microservices, DDD, event-driven architecture, clear architecture, SOLID principles, clean code, distributed systems, high availability, scalability, system design, API gateway, 12-factor app, load balancing, API versioning.
 AI/ML: OpenCV, Qdrant, LangChain, RAG, OpenAI-compatible API, computer vision basics, image processing, LLM integration, vector database, embeddings, Generative AI, platform engineering.
@@ -49,7 +49,7 @@ Technical Leadership Achievements:
 
 Development and coding:
 
-Project: B2B Microservices
+Project: B2B Microservices.
 • Increased test coverage from 27% to 95% across all microservices, significantly improving reliability and error detection
 • Optimized electronic component import, reducing service downtime from 6 hours to 20 minutes, speeding up database updates by 18x
 • Accelerated electronic component search, reducing average server response time from 1.2 seconds to 112 ms (10x improvement), enhancing request processing speed
@@ -58,10 +58,10 @@ Project: B2B Microservices
 • Integrated Kafka with FastStream, eliminating client blocking during PCB ordering and ensuring seamless request processing
 • Implemented a module for calculating the cost of goods taking into account multiple parameters, discounts, and markups.
 • Contributed to microservices architecture design, defining requirements for new services and decomposing monolithic solutions into independent modules
-Scale: dozens of interconnected microservices, hundreds of thousands of electronic components indexed, thousands of search and ordering requests processed daily
-Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, MongoDB, FastAPI, MinIO, PyTest, Kafka, Kibana, Sentry, KeyCloak, Behave, FastStream, Grafana, OpenTelemetry, Locust, Docker, Kubernetes, ETL, AirFlow, gRPC.
+Scale: dozens of interconnected microservices, hundreds of thousands of electronic components indexed, thousands of search and ordering requests processed daily.
+Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, MongoDB, FastAPI, MinIO, PyTest, Kafka, Kibana, Sentry, KeyCloak, Behave, FastStream, Grafana, OpenTelemetry, Locust, Docker, Kubernetes, Helm, Terraform, ETL, AirFlow, gRPC.
 
-Project: AI Platform for Business Requirements Formalization (Internal Service)
+Project: AI Platform for Business Requirements Formalization (Internal Service).
 • Designed the architecture of an AI platform with a focus on scalability and secure handling of internal company data.
 • Developed a chat-based service with session management, conversation history, and context control.
 • Integrated an internal LLM via an OpenAI-compatible API.
@@ -70,8 +70,8 @@ Project: AI Platform for Business Requirements Formalization (Internal Service)
 • Set up vector storage for embeddings to enable semantic search over company documents.
 • Implemented RBAC-based access control for platform functionality.
 • Configured monitoring for latency, token usage, and response quality metrics.
-Scale: internal platform used by multiple teams, thousands of documents indexed for semantic search, hundreds of AI-assisted requirement analysis sessions daily
-Stack: Python, FastAPI, PostgreSQL, Qdrant, MinIO, Redis, Docker, Kubernetes, Keycloak, Prometheus/Grafana, LangChain, RAG, OpenAI-compatible API, platform engineering.
+Scale: internal platform used by multiple teams, thousands of documents indexed for semantic search, hundreds of AI-assisted requirement analysis sessions daily.
+Stack: Python, FastAPI, PostgreSQL, Qdrant, MinIO, Redis, Docker, Kubernetes, Helm, Terraform, Keycloak, Prometheus/Grafana, LangChain, RAG, OpenAI-compatible API, platform engineering.
 
 Company: Fortech
 Company Website: fortech.dev
@@ -80,19 +80,28 @@ Duration: 06/2022 — 08/2024
 
 Responsibilities:
 • Mentorship & Coaching: Trained new employees, supported their onboarding, helped with technical challenges, and helped them master the tech stack.
-• Candidate Evaluation: Conducted technical interviews, screenings, and assessments for Python developers
-• Hiring Process Optimization: Contributed to the development and refinement of the candidate evaluation system to improve hiring efficiency
+• Candidate Evaluation: Conducted technical interviews, screenings, and assessments for Python developers.
+• Hiring Process Optimization: Contributed to the development and refinement of the candidate evaluation system to improve hiring efficiency.
 
-Project: Mobile application for pet owners
-• Integrated veterinary clinic APIs (VetManagerAPI), enabling automatic access to medical records
-• Implemented integration with the CloudPayments payment system for primary appointment payments and donations to shelters
-• Collaborated with the client to formalize business requirements
-• Developed a reminder system, allowing users to schedule pet care automatically
-• Built a clinic moderation system, accelerating verification and publication processes
-• Created an onboarding customization system via the admin panel, increasing new user conversion rates
-• Implemented phone number verification for user authentication
-• Developed event and map point search functionality on the map (PostGIS, GeoAlchemy2), providing convenient navigation for pet owners
-Scale: 1000+ users, hundreds of daily API requests to veterinary systems, thousands of geolocation queries and reminders processed daily
+Project: Fitness Application.
+- Integrated product APIs to automate nutritional value calculation based on ingredient composition.
+- Developed a flexible calorie tracking system with multiple measurement units (grams, milliliters, portions, etc.).
+- Implemented a nutrition and macronutrient tracking journal, enabling users to monitor their nutrient balance.
+- Built a media service (Django + MinIO) for handling images and videos, allowing users to upload meal photos and workout recordings.
+- Added an article and sports activity section with video lessons, improving user engagement.
+Scale: 10,000+ users, tens of thousands of daily processing of activity logs, hundreds of thousands of daily operations for accounting for eaten products and counting macronutrients.
+Stack: Django, Django Rest Framework, Celery, Django-Channels, Postgresql, Redis, RabbitMQ, GitHub actions, MinIO.
+
+Project: Mobile application for pet owners.
+• Integrated veterinary clinic APIs (VetManagerAPI), enabling automatic access to medical records.
+• Implemented integration with the CloudPayments payment system for primary appointment payments and donations to shelters.
+• Collaborated with the client to formalize business requirements.
+• Developed a reminder system, allowing users to schedule pet care automatically.
+• Built a clinic moderation system, accelerating verification and publication processes.
+• Created an onboarding customization system via the admin panel, increasing new user conversion rates.
+• Implemented phone number verification for user authentication.
+• Developed event and map point search functionality on the map (PostGIS, GeoAlchemy2), providing convenient navigation for pet owners.
+Scale: 1000+ users, hundreds of daily API requests to veterinary systems, thousands of geolocation queries and reminders processed daily.
 Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, PyTest, CloudPayments, PostGIS, GeoAlchemy2, gRPC.
 
 Company: Fortech
@@ -100,24 +109,24 @@ Company Website: fortech.dev
 Position: Senior Backend developer
 Duration: 01/2021 — 06/2022
 
-Project: HR electronic document management service
-• Implemented document generation using DOCX templates, reducing manual workload for HR specialists
-• Developed a role-based access control (RBAC) system, ensuring flexible document access management and enhanced security
-• Added support for electronic document signing (simple and enhanced digital signatures), speeding up document processing
-• Integrated the service with a notification system via Kafka for asynchronous event processing
-• Optimized database performance, eliminating locks and high-load incidents
-• Designed and implemented a microservices migration plan, improving fault tolerance and scalability
-Scale: 10,000+ users, hundreds of daily document operations, thousands of document-related events processed daily
+Project: HR electronic document management service.
+• Implemented document generation using DOCX templates, reducing manual workload for HR specialists.
+• Developed a role-based access control (RBAC) system, ensuring flexible document access management and enhanced security.
+• Added support for electronic document signing (simple and enhanced digital signatures), speeding up document processing.
+• Integrated the service with a notification system via Kafka for asynchronous event processing.
+• Optimized database performance, eliminating locks and high-load incidents.
+• Designed and implemented a microservices migration plan, improving fault tolerance and scalability.
+Scale: 10,000+ users, hundreds of daily document operations, thousands of document-related events processed daily.
 Stack: Python, FastAPI, Pydantic, SQLAlchemy, PostgreSQL, Redis, Kafka, MinIO, Portainer, PyTest.
 
-Project: Online recruitment service
-• Developed a flexible finite-state machine for candidate status transitions, enabling process customization to meet business needs
-• Integrated the service with passport verification and document parsing systems
-• Implemented seamless integration with the HR document management system, automating document creation and signing upon hiring
-• Connected the service to the notification system via Kafka
-• Added a dynamic field and block system, allowing flexible form customization without code changes
-• Introduced email and phone verification for candidates, increasing data reliability and reducing fraud risks
-Scale: 100+ daily candidates, hundreds of hiring workflows managed simultaneously, hundreds of notification events daily
+Project: Online recruitment service.
+• Developed a flexible finite-state machine for candidate status transitions, enabling process customization to meet business needs.
+• Integrated the service with passport verification and document parsing systems.
+• Implemented seamless integration with the HR document management system, automating document creation and signing upon hiring.
+• Connected the service to the notification system via Kafka.
+• Added a dynamic field and block system, allowing flexible form customization without code changes.
+• Introduced email and phone verification for candidates, increasing data reliability and reducing fraud risks.
+Scale: 100+ daily candidates, hundreds of hiring workflows managed simultaneously, hundreds of notification events daily.
 Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinIO, Portainer, PyTest, Kafka.
 
 Company: Fortech
@@ -125,26 +134,26 @@ Company Website: fortech.dev
 Position: Backend developer
 Duration: 02/2020 — 01/2021
 
-Project: admin panel for sending requests for pallet shipment
-• Refactored external service API interaction, migrating from XML to JSON
-• Added a request queue to prevent processing bottlenecks
-• Implemented an event log for the admin panel, ensuring full user action auditability and improving system transparency
-• Provided ongoing support and feature enhancements, improving service stability
-Scale: 10+ users, thousands of shipment requests processed monthly, hundreds of queued operations daily
+Project: admin panel for sending requests for pallet shipment.
+• Refactored external service API interaction, migrating from XML to JSON.
+• Added a request queue to prevent processing bottlenecks.
+• Implemented an event log for the admin panel, ensuring full user action auditability and improving system transparency.
+• Provided ongoing support and feature enhancements, improving service stability.
+Scale: 10+ users, thousands of shipment requests processed monthly, hundreds of queued operations daily.
 Stack: Python, sanic, aiohttp (client), PyTest, PostgreSQL, RabbitMQ, Celery.
 
-Project: Application for a Private Medical Clinic Franchise
-• Optimized the data synchronization algorithm, reducing record update time
-• Added API data caching, lowering server load and speeding up data retrieval for users
-• Provided ongoing support and feature enhancements, improving service stability
-Scale: thousands of patient records synchronized, hundreds of daily API synchronization operations, multiple clinic branches connected
+Project: Application for a Private Medical Clinic Franchise.
+• Optimized the data synchronization algorithm, reducing record update time.
+• Added API data caching, lowering server load and speeding up data retrieval for users.
+• Provided ongoing support and feature enhancements, improving service stability.
+Scale: thousands of patient records synchronized, hundreds of daily API synchronization operations, multiple clinic branches connected.
 Stack: Python, aiohttp (client and server), PyTest, PostgreSQL, Celery, RabbitMQ, Redis.
 
-Project: Desktop Application for Automatic License Plate Recognition and Vehicle Weight Auditing
+Project: Desktop Application for Automatic License Plate Recognition and Vehicle Weight Auditing.
 • Designed the application architecture and interface to enhance usability.
 • Implemented license plate recognition from images and videos using Tesseract OCR, improving identification accuracy.
 • Configured a Windows application installer using PyInstaller, simplifying deployment for clients.
 • Developed a dynamic settings system via an ini-file, allowing flexible parameter adjustments without recompilation.
 • Integrated API for weight scales, automating vehicle weight control and improving data accuracy.
-Scale: 1 instance, processing hundreds of vehicle images and weight measurements daily
+Scale: 1 instance, processing hundreds of vehicle images and weight measurements daily.
 Stack: Python, OpenCV, PyQt6, SQLAlchemy, PyInstaller, SQLite, Docker, GitHub, Trello.

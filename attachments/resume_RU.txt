@@ -14,9 +14,9 @@ Backend-инженер с более чем 6 годами опыта разра
 
 НАВЫКИ И ТЕХНОЛОГИИ
 
-Backend: Python, Django, Django REST Framework (DRF), Flask, FastAPI, Sanic, aiohttp (client and server), Celery, SQLAlchemy, Tortoise ORM, GINO, REST APIs, microservices architecture, asynchronous programming, asyncio.
+Backend: Python, Django, Django REST Framework (DRF), Django-Channels, Flask, FastAPI, Sanic, aiohttp (client and server), Celery, SQLAlchemy, Tortoise ORM, GINO, REST APIs, microservices architecture, asynchronous programming, asyncio.
 Databases: PostgreSQL, Apache Cassandra, Valkey, Redis, database design, SQL, query optimization, indexing, transactions.
-DevOps/Cloud: Linux (WSL and common Linux distros) + many Linux CLI programs, bash, Makefile, Git, GitHub, GitLab, GitHub Actions, GitLab CI/CD, Docker, Docker Compose, nginx, Traefik, Kubernetes (K8s), AWS (EC2, ECS, ECR, SES, S3), MinIO, containerization, CI/CD pipelines, RabbitMQ, Apache Kafka, OpenTelemetry, Prometheus, observability, monitoring.
+DevOps/Cloud: Linux (WSL and common Linux distros) + many Linux CLI programs, bash, Makefile, Git, GitHub, GitLab, GitHub Actions, GitLab CI/CD, Docker, Docker Compose, nginx, Traefik, Kubernetes (K8s), Helm, Terraform, AWS (EC2, ECS, ECR, SES, S3), MinIO, containerization, CI/CD pipelines, RabbitMQ, Apache Kafka, OpenTelemetry, Prometheus, observability, monitoring.
 Testing: pytest, locust, unit testing, integration testing, mocking.
 Architecture: REST APIs, gRPC, WebSockets, microservices, DDD, event-driven architecture, clear architecture, SOLID principles, clean code, distributed systems, high availability, scalability, system design, API gateway, 12-factor app, load balancing, API versioning.
 AI/ML: OpenCV, Qdrant, LangChain, RAG, OpenAI-compatible API, computer vision basics, image processing, LLM integration, vector database, embeddings, Generative AI, platform engineering.
@@ -56,8 +56,8 @@ GPA: 3.3 / 4.0 (взвешенный, рассчитанный из расшиф
 • Интегрировал Kafka с FastStream, исключив блокировку клиента при заказе печатных плат и обеспечив бесперебойную обработку запросов.
 • Реализовал модуль расчета стоимости товара с учетом множества параметров, скидок и наценок.
 • Участвовал в проектировании микросервисной архитектуры, формируя требования к новым сервисам и разделяя монолитные решения на независимые модули.
-Масштаб: десятки взаимосвязанных микросервисов, ежедневно обрабатываются тысячи запросов на поиск и заказ
-Стэк: Python, Pydantic, SQLAlchemy, PostgreSQL, MongoDB, FastAPI, MinIO, PyTest, Kafka, Kibana, Sentry, KeyCloak, Behave, FastStream, Grafana, OpenTelemetry, Locust, Docker, Kubernetes, ETL, AirFlow, gRPC.
+Масштаб: десятки взаимосвязанных микросервисов, ежедневно обрабатываются тысячи запросов на поиск и заказ.
+Стэк: Python, Pydantic, SQLAlchemy, PostgreSQL, MongoDB, FastAPI, MinIO, PyTest, Kafka, Kibana, Sentry, KeyCloak, Behave, FastStream, Grafana, OpenTelemetry, Locust, Docker, Kubernetes, Helm, Terraform, ETL, AirFlow, gRPC.
 
 Проект: AI-платформа для формализации бизнес-требований (внутренний сервис).
 • Спроектировал архитектуру AI-платформы с учетом масштабируемости и безопасной работы с внутренними данными.
@@ -68,8 +68,8 @@ GPA: 3.3 / 4.0 (взвешенный, рассчитанный из расшиф
 • Настроил векторное хранение эмбеддингов для поиска релевантных документов.
 • Реализовал RBAC-доступ к функциональности сервиса.
 • Настроил мониторинг latency, токенов и качества ответов.
-Масштаб: внутренняя платформа, используемая несколькими командами, тысячи документов, индексируемых для семантического поиска, сотни сеансов анализа требований с помощью ИИ ежедневно
-Стэк: Python, FastAPI, PostgreSQL, Qdrant, MinIO, Redis, Docker, Kubernetes, Keycloak, Prometheus/Grafana, LangChain, RAG, OpenAI-compatible API, platform engineering.
+Масштаб: внутренняя платформа, используемая несколькими командами, тысячи документов, индексируемых для семантического поиска, сотни сеансов анализа требований с помощью ИИ ежедневно.
+Стэк: Python, FastAPI, PostgreSQL, Qdrant, MinIO, Redis, Docker, Kubernetes, Helm, Terraform, Keycloak, Prometheus/Grafana, LangChain, RAG, OpenAI-compatible API, platform engineering.
 
 Компания: Fortech
 Сайт компании: fortech.dev
@@ -81,6 +81,15 @@ GPA: 3.3 / 4.0 (взвешенный, рассчитанный из расшиф
 • Оценка кандидатов: проведение технических интервью, скринингов и аттестаций разработчиков (Python).
 • Анализ и улучшение процессов найма: участие в разработке и оптимизации системы оценки технических навыков кандидатов.
 
+Проект: Фитнес-приложение, позволяющее вести учет потребляемых калорий, планировать питание и отслеживать спортивные активности.
+- Интегрировал API продуктов, автоматизировав расчет пищевой ценности на основе состава.
+- Разработал систему подсчета калорий с гибкими единицами измерения (граммы, миллилитры, порции и т.д.).
+- Реализовал журнал учета КБЖУ и питания, позволив пользователям отслеживать баланс нутриентов.
+- Имплементировал сервис для работы с фото и видео (Django + MinIO), что позволило загружать и хранить изображения блюд и видео с тренировками.
+- Добавил раздел статей и спортивных активностей с видеоуроками.
+Масштаб: 10000+ пользователей, десятки тысяч ежедневных обработок журналов активности, сотни тысяч ежедневных операций учёта съеденных продуктов и подсчета КБЖУ.
+Стек: Django, Django Rest Framework, Celery, Django-Channels, Postgresql, Redis, RabbitMQ, GitHub actions, MinIO.
+
 Проект: Мобильное приложение для владельцев питомцев.
 • Интегрировал API ветеринарных клиник (VetManagerAPI).
 • Реализовал интеграцию с платежной системой CloudPayments для оплаты первичного приёма, а также пожертвований в приюты.
@@ -90,7 +99,7 @@ GPA: 3.3 / 4.0 (взвешенный, рассчитанный из расшиф
 • Создал систему кастомизации онбординга через админ-панель.
 • Внедрил авторизацию через подтверждение номера телефона.
 • Реализовал поиск мероприятий и ключевых точек на карте (PostGIS, GeoAlchemy2), обеспечив удобную навигацию по мероприятиям и ключевым точкам для владельцев питомцев.
-Масштаб: 1000+ пользователей, сотни ежедневных API-запросов к ветеринарным системам, тысячи геолокационных запросов и напоминаний, обрабатываемых ежедневно
+Масштаб: 1000+ пользователей, сотни ежедневных API-запросов к ветеринарным системам, тысячи геолокационных запросов и напоминаний, обрабатываемых ежедневно.
 Стэк: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, PyTest, CloudPayments, PostGIS, GeoAlchemy2, gRPC.
 
 Компания: Fortech
@@ -104,7 +113,7 @@ GPA: 3.3 / 4.0 (взвешенный, рассчитанный из расшиф
 • Интегрировал сервис с системой нотификаций через Kafka.
 • Оптимизировал работу базы данных, что привело к повышению стабильности работы в период повышенной нагрузки на сервис.
 • Разработал и внедрил план разделения сервиса на микросервисную архитектуру.
-Масштаб: более 10 000 пользователей, сотни ежедневных операций с документами, тысячи событий, связанных с документами, обрабатываемых ежедневно
+Масштаб: более 10000 пользователей, сотни ежедневных операций с документами, тысячи событий, связанных с документами, обрабатываемых ежедневно.
 Стэк: Python, FastAPI, Pydantic, SQLAlchemy, PostgreSQL, Redis, Kafka, MinIO, Portainer, PyTest.
 
 Проект: онлайн-приём кандидатов на работу.
@@ -114,7 +123,7 @@ GPA: 3.3 / 4.0 (взвешенный, рассчитанный из расшиф
 • Интегрировал сервис с системой нотификаций через Kafka.
 • Добавил систему динамических дополнительных полей и блоков, увеличив гибкость формы анкеты без внесения изменений в код.
 • Внедрил верификацию кандидатов через почту и телефон.
-Масштаб: 100+ ежедневных кандидатов, сотни рабочих процессов найма управляются одновременно, сотни уведомлений о событиях ежедневно
+Масштаб: 100+ ежедневных кандидатов, сотни рабочих процессов найма управляются одновременно, сотни уведомлений о событиях ежедневно.
 Стек: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinIO, Portainer, PyTest, Kafka.
 
 Компания: Fortech
@@ -126,14 +135,14 @@ GPA: 3.3 / 4.0 (взвешенный, рассчитанный из расшиф
 • Переписал взаимодействие с API внешнего сервиса с XML на JSON.
 • Добавил очередь заявок для предотвращения блокировок.
 • Реализовал журнал событий админ-панели, обеспечив полный аудит действий пользователей и повысив прозрачность работы системы.
-Масштаб: более 10 пользователей, тысячи запросов на отправку обрабатываются ежемесячно, сотни операций в очереди ежедневно
-Стек: Python, sanic, aiohttp (client), PyTest, PostgreSQL, RabbitMQ, Celery.
+Масштаб: более 10 пользователей, тысячи запросов на отправку обрабатываются ежемесячно, сотни операций в очереди ежедневно.
+Стек: Python, Django, Django Rest Framework, aiohttp (client), PyTest, PostgreSQL, RabbitMQ, Celery.
 
 Проект: приложение для сети частных медицинских клиник.
 • Оптимизировал алгоритм синхронизации данных, сократив время обновления записей.
 • Добавил кэширование данных из API клиник, что снизило нагрузку на сервер и ускорило загрузку данных для пользователей.
 • Осуществлял поддержку и доработку приложения, повышая стабильность работы сервиса.
-Масштаб: синхронизированы тысячи записей пациентов, сотни ежедневных операций синхронизации API, подключено несколько отделений клиники
+Масштаб: синхронизированы тысячи записей пациентов, сотни ежедневных операций синхронизации API, подключено несколько отделений клиники.
 Стек: Python, aiohttp (client + server), PyTest, PostgreSQL, Celery, RabbitMQ, Redis.
 
 Проект: Десктопное приложение для автоматического распознавания номеров автомобилей и аудита веса машин на въезде и выезде.
@@ -142,5 +151,5 @@ GPA: 3.3 / 4.0 (взвешенный, рассчитанный из расшиф
 • Настроил установщик Windows-приложения с помощью PyInstaller, упростив развертывание приложения у заказчиков.
 • Реализовал систему динамических настроек через ini-файл, что позволило гибко изменять параметры без повторной сборки приложения.
 • Интегрировал API весов, автоматизировав контроль веса автомобилей и повысив точность учета.
-Масштаб: 1 экземпляр приложения, обрабатывающий сотни изображений транспортных средств и измерений веса ежедневно
+Масштаб: 1 экземпляр приложения, обрабатывающий сотни изображений транспортных средств и измерений веса ежедневно.
 Стек: Python3, OpenCV, PyQt6, SQLAlchemy, pyinstaller, SQLite, Docker, GitHub, Trello.
