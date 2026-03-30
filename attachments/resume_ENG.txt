@@ -27,9 +27,12 @@ Others: Linux system administration basics, networking basics (HTTP, TCP/IP), so
 
 EDUCATION
 
-2018-2022, Bachelor’s Degree in Information Systems Administration. South Russian State Polytechnic University (NPI)
-
+Name of the Education Establishment: South Russian State Polytechnic University (NPI)
+Faculty/College: Faculty of Information Technology and Management
+Degree (Diploma): Bachelor’s Degree
+Specialty: Information Systems Administration
 GPA: 3.3 / 4.0 (weighted, calculated from transcript)
+
 Languages: English — B2, Russian — native.
 
 EXPERIENCE
@@ -38,8 +41,6 @@ Company: Semimall Electronics
 Company Website: www.semimall.ru
 Position: Senior backend developer / Python Tech Lead (70% / 30%)
 Duration: 08/2024 — Present
-
-
 
 Technical Leadership Achievements:
 • Led a team of six backend engineers.
@@ -61,6 +62,7 @@ Project: B2B Microservices.
 • Implemented a module for calculating the cost of goods taking into account multiple parameters, discounts, and markups.
 • Contributed to microservices architecture design, defining requirements for new services and decomposing monolithic solutions into independent modules
 Scale: dozens of interconnected microservices, hundreds of thousands of electronic components indexed, thousands of search and ordering requests processed daily.
+Team Size: 2 Backend Engineers, 2 Frontend Engineers, 2 QA Engineers, 1 Business Analyst, 1 System Analyst, 1 Product Manager
 Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, MongoDB, FastAPI, MinIO, PyTest, Kafka, Kibana, Sentry, KeyCloak, Behave, FastStream, Grafana, OpenTelemetry, Locust, Docker, Kubernetes, Helm, Terraform, ETL, AirFlow, gRPC.
 
 Project: AI Platform for Business Requirements Formalization (Internal Service).
@@ -73,6 +75,7 @@ Project: AI Platform for Business Requirements Formalization (Internal Service).
 • Implemented RBAC-based access control for platform functionality.
 • Configured monitoring for latency, token usage, and response quality metrics.
 Scale: internal platform used by multiple teams, thousands of documents indexed for semantic search, hundreds of AI-assisted requirement analysis sessions daily.
+Team Size: 1 Backend Engineer, 1 Frontend Engineer, 1 QA Engineer, 1 Project Manager
 Stack: Python, FastAPI, PostgreSQL, Qdrant, MinIO, Redis, Docker, Kubernetes, Helm, Terraform, Keycloak, Prometheus/Grafana, LangChain, RAG, OpenAI-compatible API, platform engineering.
 
 Company: Fortech
@@ -85,13 +88,14 @@ Responsibilities:
 • Candidate Evaluation: Conducted technical interviews, screenings, and assessments for Python developers.
 • Hiring Process Optimization: Contributed to the development and refinement of the candidate evaluation system to improve hiring efficiency.
 
-Project: Fitness Application.
+Project: High-load application for nutrition tracking and fitness management with thousands of users and large volumes of daily activity data.
 • Integrated product APIs to automate nutritional value calculation based on ingredient composition.
 • Developed a flexible calorie tracking system with multiple measurement units (grams, milliliters, portions, etc.).
 • Implemented a nutrition and macronutrient tracking journal, enabling users to monitor their nutrient balance.
 • Built a media service (Django + MinIO) for handling images and videos, allowing users to upload meal photos and workout recordings.
 • Added an article and sports activity section with video lessons, improving user engagement.
 Scale: 10,000+ users, tens of thousands of daily processing of activity logs, hundreds of thousands of daily operations for accounting for eaten products and counting macronutrients.
+Team Size: 3 Backend Engineers, 2 Frontend Engineers, 1 Desginer, 1 analyst, 2 QA Engineers, 1 Project Manager, 1 Tech/Team lead.
 Stack: Django, Django Rest Framework, Celery, Django-Channels, Postgresql, Redis, RabbitMQ, Kubernetes, Helm, MinIO.
 
 Project: Mobile application for pet owners.
@@ -104,6 +108,7 @@ Project: Mobile application for pet owners.
 • Implemented phone number verification for user authentication.
 • Developed event and map point search functionality on the map (PostGIS, GeoAlchemy2), providing convenient navigation for pet owners.
 Scale: 1000+ users, hundreds of daily API requests to veterinary systems, thousands of geolocation queries and reminders processed daily.
+Team Size: 2 Backend Engineers, 1 Frontend Engineer, 1 QA Engineer, 1 analyst, Project Manager, Product Owner
 Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, FastAPI, PyTest, CloudPayments, PostGIS, GeoAlchemy2, gRPC.
 
 Company: Fortech
@@ -119,6 +124,7 @@ Project: HR electronic document management service.
 • Optimized database performance, eliminating locks and high-load incidents.
 • Designed and implemented a microservices migration plan, improving fault tolerance and scalability.
 Scale: 10,000+ users, hundreds of daily document operations, thousands of document-related events processed daily.
+Team Size: 3 Backend Engineers, 2 Frontend Engineers, 3 QA Engineers, 2 DevOps Engineers, 1 Analyst, 1 Project Manager
 Stack: Python, FastAPI, Pydantic, SQLAlchemy, PostgreSQL, Redis, Kafka, MinIO, Portainer, PyTest.
 
 Project: Online recruitment service.
@@ -129,6 +135,7 @@ Project: Online recruitment service.
 • Added a dynamic field and block system, allowing flexible form customization without code changes.
 • Introduced email and phone verification for candidates, increasing data reliability and reducing fraud risks.
 Scale: 100+ daily candidates, hundreds of hiring workflows managed simultaneously, hundreds of notification events daily.
+Team Size: 3 Backend Engineers, 2 Frontend Engineers, 3 QA Engineers, 2 DevOps Engineers, 1 Analyst, 1 Project Manager
 Stack: Python, Pydantic, SQLAlchemy, PostgreSQL, Redis, FastAPI, MinIO, Portainer, PyTest, Kafka.
 
 Company: Fortech
@@ -142,6 +149,7 @@ Project: admin panel for sending requests for pallet shipment.
 • Implemented an event log for the admin panel, ensuring full user action auditability and improving system transparency.
 • Provided ongoing support and feature enhancements, improving service stability.
 Scale: 10+ users, thousands of shipment requests processed monthly, hundreds of queued operations daily.
+Team Size: 1 Backend Engineer, 1 Frontend Engineer, 1 Project Manager
 Stack: Python, sanic, aiohttp (client), PyTest, PostgreSQL, RabbitMQ, Celery.
 
 Project: Application for a Private Medical Clinic Franchise.
@@ -149,6 +157,7 @@ Project: Application for a Private Medical Clinic Franchise.
 • Added API data caching, lowering server load and speeding up data retrieval for users.
 • Provided ongoing support and feature enhancements, improving service stability.
 Scale: thousands of patient records synchronized, hundreds of daily API synchronization operations, multiple clinic branches connected.
+Team Size: 1 Backend Engineer, 1 Frontend Engineer, 1 Project Manager
 Stack: Python, aiohttp (client and server), PyTest, PostgreSQL, Celery, RabbitMQ, Redis.
 
 Project: Desktop Application for Automatic License Plate Recognition and Vehicle Weight Auditing.
@@ -158,4 +167,5 @@ Project: Desktop Application for Automatic License Plate Recognition and Vehicle
 • Developed a dynamic settings system via an ini-file, allowing flexible parameter adjustments without recompilation.
 • Integrated API for weight scales, automating vehicle weight control and improving data accuracy.
 Scale: 1 instance, processing hundreds of vehicle images and weight measurements daily.
+Team Size: 2 Backend Engineers
 Stack: Python, OpenCV, PyQt6, SQLAlchemy, PyInstaller, SQLite, Docker, GitHub, Trello.
