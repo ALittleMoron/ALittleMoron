@@ -12,7 +12,7 @@ GitHub: github.com/ALittleMoron
 
 SUMMARY
 
-Backend Software Engineer with 6+ years of experience building scalable backend platforms and microservices in Python. Delivered high-performance APIs and distributed systems across B2B, healthcare, veterinary, and HR products. Combines strong engineering execution with leadership experience, mentoring developers and improving team engineering practices. Experienced across the full product lifecycle, from requirements discovery to production deployment and CI/CD automation.
+Backend Software Engineer with 6+ years of experience building scalable backend platforms and microservices in Python. Delivered high-performance APIs and distributed systems across B2B, healthcare, veterinary, and HR domains, with a strong focus on reliability, scalability, and maintainability. Combines strong engineering execution with leadership experience, mentoring developers, contributing to architectural decisions, and improving engineering practices within teams. Experienced across the full product lifecycle, from requirements discovery and system design to production deployment and CI/CD automation. Possesses deep expertise in microservices architecture, asynchronous programming, event-driven systems, and high-load system optimization. Also experienced in MLOps/LLMOps, including building AI-powered platforms using RAG, vector databases, and LLM integrations. Delivered measurable business impact, including up to 10x performance improvements and significant quality gains through increased test coverage.
 
 SKILLS
 
