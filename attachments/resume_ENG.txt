@@ -37,8 +37,8 @@ Languages: English — B2, Russian — native.
 
 EXPERIENCE
 
-Company: Semimall Electronics
-Company Website: www.semimall.ru
+Company: Compel
+Company Website: www.compel.ru
 Position: Senior backend developer / Python Tech Lead (70% / 30%)
 Duration: 08/2024 — Present
 
