@@ -36,5 +36,6 @@ enhancing the competencies of other developers. We can say that this is my hobby
 
 ## 👔 Commercial experience:
 
-- [Compel](https://www.compel.ru/) - 08/2024 - Nowadays
+- [START](https://start.ru/) - 05/2026 - Present
+- [Compel](https://www.compel.ru/) - 08/2024 - 04/2026
 - [Fortech](https://fortech.dev/) - 02/2020 - 08/2024

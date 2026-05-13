@@ -37,5 +37,6 @@ Backend Python разработчик с более чем 6-летним ком
 
 ## 👔 Коммерческий опыт:
 
-- [Compel](https://www.compel.ru/) - 08/2024 - по настоящее время
+- [START](https://start.ru/) - 05/2026 - по настоящее время
+- [Compel](https://www.compel.ru/) - 08/2024 - 04/2026
 - [Fortech](https://fortech.dev/) - 02/2020 - 08/2024
