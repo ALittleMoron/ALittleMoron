@@ -14,7 +14,7 @@ Phone: [+37498901459](tel:37498901459) | Timezone: GMT+3
 
 Python backend developer with 6+ years of commercial experience, working in different spheres like
 B2B, healthcare, veterinary, HR and others. Have 3+ years of leading experience. Worked in teams
-ranging from 4 to 30 members, both remotely and onside. Participated in all stages of the full cycle  
+ranging from 4 to 30 members, both remotely and onside. Participated in all stages of the full cycle
 of development: from gathering product owner requirements to establishing a full automated release
 process (CI/CD).
 
