@@ -42,6 +42,9 @@ Company Website: start.ru
 Position: Senior backend developer
 Duration: 05/2026 — Present
 
+Project: Core system.
+• Contributed to the architectural decomposition of a legacy monolith and its transition to a service-oriented architecture: designed the target system architecture, domain and service boundaries, API contracts, data ownership model, integration patterns, and a phased migration roadmap while preserving backward compatibility.
+
 Company: Compel
 Company Website: www.compel.ru
 Position: Senior backend developer / Python Tech Lead (70% / 30%)
