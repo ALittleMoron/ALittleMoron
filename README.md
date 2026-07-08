@@ -1,4 +1,4 @@
-# Dmitriy Lunev
+# Dmitrii Lunev
 
 [🇷🇺 Русская версия](./README_RU.md) |
 [🖹 Text resume](./attachments/resume_ENG.txt) |
