@@ -43,6 +43,7 @@ GPA: 3.3 / 4.0 (взвешенный, рассчитанный из расшиф
 
 Проект: Core система.
 • Участвовал в архитектурной декомпозиции legacy-монолита и переходе к сервисной архитектуре: проектировал целевое состояние системы, границы доменов и сервисов, API-контракты, ownership данных, интеграционные паттерны и roadmap поэтапной миграции с сохранением обратной совместимости.
+• Интегрировал Sber ID как новый authentication provider в backend-платформу, спроектировав и реализовав OAuth 2.0 / OIDC Authorization Code flow с mTLS, PKCE, state/nonce validation, anti-replay protection, secure token handling, account linking/creation, error normalization, observability и production-ready rollout strategy.
 
 Компания: Compel
 Сайт компании: www.compel.ru
