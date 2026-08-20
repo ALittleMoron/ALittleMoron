@@ -5,7 +5,7 @@
 
 Phone: [+37498901459](tel:37498901459) | Timezone: GMT+3
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=79188739392)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=79936739392)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/alm_dmitriy_dev)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:d.lunev.dev@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dmitriy-lunev/)
@@ -23,12 +23,18 @@ enhancing the competencies of other developers. We can say that this is my hobby
 
 # ⚙️ Skills
 
-- **Web**: Python, Django, DRF, Flask, FastAPI, sqlalchemy, TortoiseORM, OpenCV, sanic,
-  aiohttp (client and server), gino, PostgreSQL, Redis, RabbitMQ, Kafka, HTML, CSS,
-  Bootstrap, JavaScript, TypeScript.
-- **Others**: Linux (WSL and common Linux distros) + many linux CLI programs, bash, Makefile,
-  Git, GitHub, GitLab, GitHub actions, GitLab CI, Docker, Docker-Compose, nginx,
-  traefik, kubernetes, AWS (EC2, ECS, ECR, SES, S3), MinIO.
+- **Backend**: Python, Go, Django, Django REST Framework (DRF), Django-Channels, Flask,
+  Flask-RESTful, Flask-Classy, FastAPI, Sanic, Echo, Pydantic, SQLAlchemy, Tortoise ORM,
+  GINO, Alembic, Celery/Beat, Uvicorn, Gunicorn, aiohttp (client and server), httpx,
+  requests, REST APIs, OpenCV, Thumbor.
+- **Data and messaging**: PostgreSQL, MongoDB, Redis, RabbitMQ, Kafka, MinIO.
+- **DevOps and infrastructure**: Linux (WSL and common Linux distros), bash, Makefile, Git,
+  GitHub, GitLab, GitHub Actions, GitLab CI/CD, Docker, Docker Compose, nginx, Traefik,
+  Kubernetes, Helm, Kong, Konga, Keycloak, AWS (EC2, ECS, ECR, SES, S3).
+- **Observability**: OpenTelemetry, Jaeger, Prometheus, VictoriaMetrics, Grafana,
+  Datadog APM, Sentry.
+- **Testing and tooling**: pytest, minimock, Poetry.
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript, TypeScript.
 - **Higher education**: 2018–2022, The Platov South Russian State Polytechnic University (NPI),
   Faculty of Information Technology and Management, Computer software, Mathematical support and
   administration of information systems.

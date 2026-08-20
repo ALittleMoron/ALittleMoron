@@ -46,6 +46,7 @@ Project: Core system.
 • Contributed to the architectural decomposition of a legacy monolith and its transition to a service-oriented architecture: designed the target system architecture, domain and service boundaries, API contracts, data ownership model, integration patterns, and a phased migration roadmap while preserving backward compatibility.
 • Integrated Sber ID as a new authentication provider into the backend platform, designing and implementing an OAuth 2.0 / OIDC Authorization Code flow with mTLS, PKCE, state/nonce validation, anti-replay protection, secure token handling, account linking/creation, error normalization, observability, and a production-ready rollout strategy.
 • Designed and integrated Unleash for centralized feature flag management and controlled production rollouts; established guidelines for using feature flags in canary releases.
+Stack: Python, Go, FastAPI, Flask, Flask-RESTful, Flask-Classy, Pydantic, Echo, Uvicorn, Gunicorn, SQLAlchemy, Alembic, Celery/Beat, httpx, aiohttp, requests, REST, Keycloak, PostgreSQL, MongoDB, Redis, MinIO, RabbitMQ, Kafka, Kong, Konga, Kubernetes, Helm, Docker, GitLab CI/CD, OpenTelemetry, Jaeger, Prometheus, VictoriaMetrics, Grafana, Datadog APM, Sentry, Thumbor, Poetry, pytest, minimock.
 
 Company: Compel
 Company Website: www.compel.ru

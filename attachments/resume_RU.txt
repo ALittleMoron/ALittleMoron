@@ -2,6 +2,8 @@
 Backend Software Engineer (Python)
 6+ лет опыта
 
+КОНТАКТНЫЕ ДАННЫЕ
+
 Номер телефона: +79936739392
 Электронная почта: d.lunev.dev@gmail.com
 Телеграм: t.me/alm_dmitriy_dev
@@ -45,6 +47,7 @@ GPA: 3.3 / 4.0 (взвешенный, рассчитанный из расшиф
 • Участвовал в архитектурной декомпозиции legacy-монолита и переходе к сервисной архитектуре: проектировал целевое состояние системы, границы доменов и сервисов, API-контракты, ownership данных, интеграционные паттерны и roadmap поэтапной миграции с сохранением обратной совместимости.
 • Интегрировал Sber ID как новый authentication provider в backend-платформу, спроектировав и реализовав OAuth 2.0 / OIDC Authorization Code flow с mTLS, PKCE, state/nonce validation, anti-replay protection, secure token handling, account linking/creation, error normalization, observability и production-ready rollout strategy.
 • Спроектировал и внедрил Unleash для централизованного управления фича-флагами и контролируемого вывода новых функций в production; разработал регламент их использования при канареечных релизах.
+Стек: Python, Go, FastAPI, Flask, Flask-RESTful, Flask-Classy, Pydantic, Echo, Uvicorn, Gunicorn, SQLAlchemy, Alembic, Celery/Beat, httpx, aiohttp, requests, REST, Keycloak, PostgreSQL, MongoDB, Redis, MinIO, RabbitMQ, Kafka, Kong, Konga, Kubernetes, Helm, Docker, GitLab CI/CD, OpenTelemetry, Jaeger, Prometheus, VictoriaMetrics, Grafana, Datadog APM, Sentry, Thumbor, Poetry, pytest, minimock.
 
 Компания: Compel
 Сайт компании: www.compel.ru
